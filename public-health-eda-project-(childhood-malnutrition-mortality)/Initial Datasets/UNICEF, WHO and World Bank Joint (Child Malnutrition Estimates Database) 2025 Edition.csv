@@ -1,0 +1,363 @@
+Year,United Nations Region,ISO Code,Country and Areas,World Bank Income Classification,Average Wasting,Average Stunting
+2017,Oceania,AUS,Australia,High Income,0,0
+2014,Oceania,AUS,Australia,High Income,0,0
+2021,Europe,LVA,Latvia,High Income,1.6,0.5
+2021,Europe,LTU,Lithuania,High Income,4.3,0.7
+2020,Asia,KOR,Republic Of Korea,High Income,0,0.9
+2022,Europe,LTU,Lithuania,High Income,0,0.9
+2023,Europe,LTU,Lithuania,High Income,0,1
+2019,Europe,POL,Poland,High Income,0.8,1
+2019,Europe,BLR,Belarus,Upper Middle Income,1.3,1.1
+2020,Europe,BLR,Belarus,Upper Middle Income,1.3,1.2
+2021,Europe,BLR,Belarus,Upper Middle Income,1.2,1.2
+2022,Europe,BLR,Belarus,Upper Middle Income,1.3,1.2
+2023,Europe,BLR,Belarus,Upper Middle Income,1.3,1.2
+2014,Europe,EST,Estonia,High Income,1.5,1.2
+2017,Europe,FIN,Finland,High Income,1,1.3
+2018,Europe,FIN,Finland,High Income,1.1,1.3
+2019,Europe,FIN,Finland,High Income,1.2,1.3
+2021,Europe,FIN,Finland,High Income,1.4,1.3
+2020,Europe,FIN,Finland,High Income,1.1,1.3
+2016,Europe,DEU,Germany,High Income,0.3,1.3
+2014,Asia,KOR,Republic Of Korea,High Income,0.4,1.6
+2014,Europe,BEL,Belgium,High Income,0.4,1.6
+2015,Europe,FIN,Finland,High Income,1.2,1.7
+2016,Europe,FIN,Finland,High Income,1.2,1.7
+2014,Europe,FIN,Finland,High Income,1.2,1.8
+2022,Europe,FIN,Finland,High Income,1.6,1.8
+2014,Latin America and the Caribbean,CHL,Chile,High Income,0.3,1.8
+2023,Europe,BEL,Belgium,High Income,0.7,1.9
+2017,Europe,GBR,United Kingdom Of Great Britain And Northern Ireland,High Income,0.3,1.9
+2018,Europe,GBR,United Kingdom Of Great Britain And Northern Ireland,High Income,0.3,2
+2014,Europe,GBR,United Kingdom Of Great Britain And Northern Ireland,High Income,0.3,2
+2015,Europe,GBR,United Kingdom Of Great Britain And Northern Ireland,High Income,0.3,2
+2016,Europe,GBR,United Kingdom Of Great Britain And Northern Ireland,High Income,0.3,2
+2019,Europe,GBR,United Kingdom Of Great Britain And Northern Ireland,High Income,0.3,2
+2019,Oceania,TON,Tonga,Upper Middle Income,1.1,2.2
+2017,Asia,KOR,Republic Of Korea,High Income,0.7,2.3
+2014,Northern America,USA,United States Of America,High Income,0.3,2.4
+2014,Europe,POL,Poland,High Income,0,2.6
+2023,Europe,FIN,Finland,High Income,1.6,2.8
+2023,Asia,KWT,Kuwait,High Income,3.5,3.2
+2022,Europe,MLT,Malta,High Income,0.3,3.3
+2016,Europe,PRT,Portugal,High Income,0.6,3.3
+2018,Northern America,USA,United States Of America,High Income,0.1,3.4
+2016,Northern America,USA,United States Of America,High Income,0.4,3.5
+2020,Asia,KWT,Kuwait,High Income,1.9,3.8
+2022,Northern America,USA,United States Of America,High Income,0.1,3.8
+2021,Asia,KWT,Kuwait,High Income,3.2,4.3
+2019,Europe,MKD,North Macedonia,Upper Middle Income,3.4,4.3
+2020,Latin America and the Caribbean,TCA,Turks And Caicos Islands,High Income,1.3,4.5
+2022,Asia,KWT,Kuwait,High Income,3.4,4.6
+2019,Asia,KWT,Kuwait,High Income,1.7,4.6
+2018,Latin America and the Caribbean,JAM,Jamaica,Upper Middle Income,3.2,4.6
+2017,Asia,CHN,China,Upper Middle Income,1.9,4.8
+2017,Asia,IRN,Iran,Upper Middle Income,4.3,4.8
+2014,Oceania,WSM,Samoa,Lower Middle Income,3.9,4.9
+2015,Asia,KWT,Kuwait,High Income,3,5.2
+2019,Europe,SRB,Serbia,Upper Middle Income,2.6,5.3
+2021,Asia,QAT,Qatar,High Income,1.7,5.4
+2016,Latin America and the Caribbean,PRY,Paraguay,Upper Middle Income,1,5.6
+2019,Oceania,TUV,Tuvalu,Upper Middle Income,2.7,5.7
+2018,Asia,GEO,Georgia,Upper Middle Income,0.6,5.8
+2017,Asia,KWT,Kuwait,High Income,2.4,5.8
+2014,Asia,KWT,Kuwait,High Income,2.5,5.9
+2018,Africa,CPV,Cabo Verde,Lower Middle Income,2.4,6
+2018,Asia,TUR,Tã¼Rkiye,Upper Middle Income,1.7,6
+2014,Europe,SRB,Serbia,Upper Middle Income,3.9,6
+2014,Latin America and the Caribbean,JAM,Jamaica,Upper Middle Income,3.6,6
+2014,Oceania,FJI,Fiji,Upper Middle Income,7,6
+2023,Asia,QAT,Qatar,High Income,2.1,6.2
+2016,Asia,KWT,Kuwait,High Income,2.3,6.3
+2022,Asia,QAT,Qatar,High Income,1.8,6.3
+2021,Asia,UZB,Uzbekistan,Lower Middle Income,2.4,6.5
+2023,Asia,AZE,Azerbaijan,Upper Middle Income,3.5,6.6
+2019,Latin America and the Caribbean,DOM,Dominican Republic,Upper Middle Income,2.2,6.7
+2014,Europe,BGR,Bulgaria,High Income,6.2,6.9
+2018,Latin America and the Caribbean,URY,Uruguay,High Income,1.4,6.9
+2018,Asia,KWT,Kuwait,High Income,2.2,7
+2021,Asia,LBN,Lebanon,Lower Middle Income,1.4,7
+2019,Latin America and the Caribbean,CUB,Cuba,Upper Middle Income,2,7.1
+2019,Asia,TKM,Turkmenistan,Upper Middle Income,4.1,7.2
+2021,Oceania,FJI,Fiji,Upper Middle Income,4.6,7.2
+2016,Asia,MNG,Mongolia,Upper Middle Income,1.2,7.3
+2018,Europe,MNE,Montenegro,Upper Middle Income,2.2,7.3
+2019,Oceania,WSM,Samoa,Lower Middle Income,3.1,7.3
+2019,Asia,JOR,Jordan,Lower Middle Income,0.6,7.4
+2021,Asia,LKA,Sri Lanka,Lower Middle Income,8.2,7.4
+2014,Asia,PSE,State Of Palestine,Lower Middle Income,1.2,7.4
+2022,Africa,LBY,Libya,Upper Middle Income,3.3,7.9
+2015,Asia,KAZ,Kazakhstan,Upper Middle Income,3.1,8
+2019,Latin America and the Caribbean,BRA,Brazil,Upper Middle Income,3.4,8
+2023,Asia,JOR,Jordan,Lower Middle Income,2.3,8.2
+2020,Asia,LKA,Sri Lanka,Lower Middle Income,8.6,8.2
+2018,Latin America and the Caribbean,SUR,Suriname,Upper Middle Income,5.5,8.3
+2018,Africa,TUN,Tunisia,Lower Middle Income,2.1,8.4
+2019,Asia,LKA,Sri Lanka,Lower Middle Income,9.9,8.4
+2021,Asia,KGZ,Kyrgyzstan,Lower Middle Income,0.8,8.6
+2020,Asia,PSE,State Of Palestine,Lower Middle Income,1.3,8.7
+2018,Latin America and the Caribbean,ARG,Argentina,Upper Middle Income,1.7,8.7
+2023,Asia,MNG,Mongolia,Upper Middle Income,2.7,8.8
+2018,Latin America and the Caribbean,CRI,Costa Rica,Upper Middle Income,1.8,9
+2016,Latin America and the Caribbean,JAM,Jamaica,Upper Middle Income,3.3,9.3
+2016,Asia,ARM,Armenia,Upper Middle Income,4.5,9.4
+2018,Asia,MNG,Mongolia,Upper Middle Income,0.9,9.4
+2019,Latin America and the Caribbean,GUY,Guyana,High Income,6.5,9.5
+2019,Africa,DZA,Algeria,Upper Middle Income,2.7,9.8
+2021,Latin America and the Caribbean,SLV,El Salvador,Upper Middle Income,2.9,10
+2016,Latin America and the Caribbean,MEX,Mexico,Upper Middle Income,2,10
+2023,Asia,LKA,Sri Lanka,Lower Middle Income,10,10.3
+2016,Asia,THA,Thailand,Upper Middle Income,5.4,10.5
+2020,Asia,SAU,Saudi Arabia,High Income,6.2,10.8
+2017,Asia,UZB,Uzbekistan,Lower Middle Income,1.8,10.8
+2016,Latin America and the Caribbean,URY,Uruguay,High Income,0.7,10.8
+2014,Latin America and the Caribbean,GUY,Guyana,High Income,6.4,11.2
+2017,Europe,ALB,Albania,Upper Middle Income,1.6,11.3
+2017,Asia,OMN,Oman,High Income,9.3,11.4
+2020,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.4,11.4
+2018,Asia,SAU,Saudi Arabia,High Income,7.2,11.5
+2015,Asia,TKM,Turkmenistan,Upper Middle Income,4.2,11.5
+2023,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.6,11.5
+2021,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.4,11.5
+2019,Africa,STP,Sao Tome And Principe,Lower Middle Income,4.1,11.7
+2018,Asia,KGZ,Kyrgyzstan,Lower Middle Income,2,11.7
+2022,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.5,11.7
+2018,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.5,12.2
+2022,Asia,THA,Thailand,Upper Middle Income,7.2,12.4
+2015,Latin America and the Caribbean,MEX,Mexico,Upper Middle Income,1,12.4
+2022,Latin America and the Caribbean,MEX,Mexico,Upper Middle Income,1,12.5
+2018,Asia,IRQ,Iraq,Upper Middle Income,3,12.6
+2022,Asia,LKA,Sri Lanka,Lower Middle Income,17.4,12.6
+2016,Latin America and the Caribbean,COL,Colombia,Upper Middle Income,1.6,12.7
+2016,Latin America and the Caribbean,PER,Peru,Upper Middle Income,1,12.7
+2019,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.7,12.7
+2021,Africa,EGY,Egypt,Lower Middle Income,3.3,12.8
+2021,Latin America and the Caribbean,MEX,Mexico,Upper Middle Income,1.7,12.8
+2017,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.5,12.8
+2014,Asia,KGZ,Kyrgyzstan,Lower Middle Income,2.8,12.9
+2015,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.5,12.9
+2019,Asia,SAU,Saudi Arabia,High Income,6.3,13.2
+2019,Asia,THA,Thailand,Upper Middle Income,7.7,13.3
+2023,Asia,TJK,Tajikistan,Lower Middle Income,6.4,13.6
+2014,Latin America and the Caribbean,SLV,El Salvador,Upper Middle Income,2.1,13.6
+2015,Asia,SAU,Saudi Arabia,High Income,6.2,13.7
+2023,Asia,LBN,Lebanon,Lower Middle Income,1.3,13.8
+2020,Latin America and the Caribbean,MEX,Mexico,Upper Middle Income,1.6,13.9
+2023,Asia,KGZ,Kyrgyzstan,Lower Middle Income,3,14.1
+2014,Asia,OMN,Oman,High Income,7.5,14.1
+2019,Latin America and the Caribbean,MEX,Mexico,Upper Middle Income,1.4,14.1
+2020,Africa,GAB,Gabon,Upper Middle Income,3.4,14.3
+2019,Africa,MAR,Morocco,Lower Middle Income,2.4,14.3
+2014,Latin America and the Caribbean,PER,Peru,Upper Middle Income,0.6,14.8
+2017,Africa,MAR,Morocco,Lower Middle Income,2.6,15
+2015,Latin America and the Caribbean,BLZ,Belize,Upper Middle Income,1.8,15
+2018,Oceania,KIR,Kiribati,Lower Middle Income,3.5,15.2
+2017,Asia,MDV,Maldives,Upper Middle Income,9.1,15.3
+2019,Latin America and the Caribbean,PAN,Panama,High Income,1.1,15.8
+2023,Oceania,NRU,Nauru,High Income,1.3,15.9
+2016,Latin America and the Caribbean,BOL,Bolivia (Plurinational State Of),Lower Middle Income,2,16.1
+2018,Africa,GMB,Gambia,Low Income,6.1,16.3
+2017,Africa,SEN,Senegal,Lower Middle Income,9,16.5
+2014,Africa,SEN,Senegal,Lower Middle Income,7,16.5
+2016,Africa,SEN,Senegal,Lower Middle Income,7.1,17.1
+2016,Asia,SAU,Saudi Arabia,High Income,5.2,17.1
+2017,Asia,SAU,Saudi Arabia,High Income,7.4,17.1
+2014,Africa,STP,Sao Tome And Principe,Lower Middle Income,4,17.2
+2016,Asia,LKA,Sri Lanka,Lower Middle Income,15.1,17.3
+2022,Africa,GHA,Ghana,Lower Middle Income,5.8,17.4
+2021,Africa,MRT,Mauritania,Lower Middle Income,10.1,17.4
+2020,Africa,GMB,Gambia,Low Income,5,17.5
+2017,Africa,GHA,Ghana,Lower Middle Income,6.8,17.5
+2023,Africa,SEN,Senegal,Lower Middle Income,10.1,17.5
+2017,Asia,TJK,Tajikistan,Lower Middle Income,5.6,17.5
+2023,Latin America and the Caribbean,ECU,Ecuador,Upper Middle Income,0.9,17.5
+2022,Africa,KEN,Kenya,Lower Middle Income,4.5,17.6
+2015,Asia,MYS,Malaysia,Upper Middle Income,8.1,17.8
+2023,Asia,BTN,Bhutan,Lower Middle Income,5.1,17.9
+2022,Africa,COM,Comoros,Lower Middle Income,5.1,18.2
+2023,Asia,VNM,Viet Nam,Lower Middle Income,4.4,18.2
+2019,Africa,SEN,Senegal,Lower Middle Income,8.1,18.3
+2014,Africa,GHA,Ghana,Lower Middle Income,4.7,18.7
+2019,Latin America and the Caribbean,HND,Honduras,Lower Middle Income,1.9,18.7
+2018,Africa,SEN,Senegal,Lower Middle Income,7.8,18.8
+2020,Africa,BFA,Burkina Faso,Low Income,9.1,18.9
+2022,Asia,VNM,Viet Nam,Lower Middle Income,4.4,18.9
+2015,Africa,SEN,Senegal,Lower Middle Income,8.3,19.1
+2017,Asia,PRK,Democratic People'S Republic Of Korea,Low Income,2.5,19.1
+2019,Africa,MRT,Mauritania,Lower Middle Income,11.1,19.4
+2016,Asia,TJK,Tajikistan,Lower Middle Income,3.5,19.6
+2020,Asia,VNM,Viet Nam,Lower Middle Income,4.7,19.6
+2021,Africa,SWZ,Eswatini,Lower Middle Income,1.8,20
+2016,Asia,MYS,Malaysia,Upper Middle Income,11.5,20.8
+2019,Africa,DJI,Djibouti,Lower Middle Income,10.1,20.9
+2017,Africa,BFA,Burkina Faso,Low Income,8.6,21.1
+2014,Africa,COG,Congo,Lower Middle Income,8.2,21.2
+2015,Africa,ZAF,South Africa,Upper Middle Income,3.5,21.2
+2022,Asia,MYS,Malaysia,Upper Middle Income,11,21.2
+2017,Africa,ZAF,South Africa,Upper Middle Income,3.7,21.3
+2016,Africa,CIV,Cã´Te Dâ€™Ivoire,Lower Middle Income,6.1,21.6
+2022,Asia,IDN,Indonesia,Upper Middle Income,7.5,21.6
+2021,Africa,BFA,Burkina Faso,Low Income,9.8,21.8
+2022,Africa,MLI,Mali,Low Income,10.6,21.8
+2021,Asia,KHM,Cambodia,Lower Middle Income,9.6,21.9
+2017,Latin America and the Caribbean,HTI,Haiti,Lower Middle Income,3.7,21.9
+2023,Asia,IDN,Indonesia,Upper Middle Income,8.4,22
+2023,Latin America and the Caribbean,HTI,Haiti,Lower Middle Income,5,22
+2021,Africa,MLI,Mali,Low Income,9.3,22.1
+2014,Africa,EGY,Egypt,Lower Middle Income,9.5,22.2
+2019,Asia,VNM,Viet Nam,Lower Middle Income,5.2,22.4
+2018,Africa,MRT,Mauritania,Lower Middle Income,11.5,22.8
+2020,Africa,MLI,Mali,Low Income,7.2,23
+2018,Asia,VNM,Viet Nam,Lower Middle Income,5.4,23.2
+2021,Africa,CIV,Cã´Te Dâ€™Ivoire,Lower Middle Income,8.1,23.4
+2019,Africa,ZWE,Zimbabwe,Lower Middle Income,2.9,23.5
+2022,Asia,BGD,Bangladesh,Lower Middle Income,10.7,23.6
+2019,Africa,BFA,Burkina Faso,Low Income,8.1,23.7
+2017,Africa,TGO,Togo,Low Income,5.7,23.8
+2017,Asia,VNM,Viet Nam,Lower Middle Income,5.8,23.8
+2014,Latin America and the Caribbean,ECU,Ecuador,Upper Middle Income,1.6,23.9
+2018,Africa,UGA,Uganda,Low Income,2.7,24.1
+2016,Asia,VNM,Viet Nam,Lower Middle Income,0,24.3
+2022,Africa,UGA,Uganda,Low Income,3.2,24.4
+2021,Asia,IDN,Indonesia,Upper Middle Income,7.1,24.4
+2017,Africa,MLI,Mali,Low Income,10.5,24.5
+2015,Asia,VNM,Viet Nam,Lower Middle Income,6.4,24.6
+2022,Asia,NPL,Nepal,Lower Middle Income,7,24.8
+2018,Africa,BFA,Burkina Faso,Low Income,8.4,24.9
+2014,Asia,VNM,Viet Nam,Lower Middle Income,6.8,24.9
+2022,Africa,MRT,Mauritania,Lower Middle Income,13.5,25.1
+2023,Africa,DJI,Djibouti,Lower Middle Income,11.5,25.4
+2014,Africa,SWZ,Eswatini,Lower Middle Income,2,25.5
+2018,Africa,MLI,Mali,Low Income,9.4,25.5
+2019,Asia,MYS,Malaysia,Upper Middle Income,9.6,25.5
+2020,Africa,UGA,Uganda,Low Income,3.5,25.7
+2020,Africa,MRT,Mauritania,Lower Middle Income,6.4,25.8
+2022,Africa,GIN,Guinea,Lower Middle Income,6.4,26.1
+2014,Africa,KEN,Kenya,Lower Middle Income,4.2,26.2
+2021,Africa,SLE,Sierra Leone,Low Income,6.3,26.3
+2019,Africa,MLI,Mali,Low Income,9.3,26.4
+2016,Africa,MLI,Mali,Low Income,10.6,26.4
+2019,Asia,IDN,Indonesia,Upper Middle Income,8.6,26.6
+2016,Africa,BFA,Burkina Faso,Low Income,7.5,26.7
+2018,Asia,MMR,Myanmar,Lower Middle Income,6.7,26.7
+2021,Asia,PHL,Philippines,Lower Middle Income,5.4,26.7
+2015,Africa,ZWE,Zimbabwe,Lower Middle Income,3.3,27.1
+2016,Africa,ZAF,South Africa,Upper Middle Income,2.5,27.4
+2019,Asia,BGD,Bangladesh,Lower Middle Income,9.7,27.5
+2014,Africa,GNB,Guinea-Bissau,Low Income,6,27.6
+2014,Africa,TGO,Togo,Low Income,6.6,27.6
+2014,Africa,ZWE,Zimbabwe,Lower Middle Income,3.2,27.6
+2019,Africa,GNB,Guinea-Bissau,Low Income,6.4,27.9
+2015,Africa,MRT,Mauritania,Lower Middle Income,14.8,27.9
+2014,Africa,MLI,Mali,Low Income,13.1,28
+2016,Africa,KEN,Kenya,Lower Middle Income,6.7,28.6
+2019,Asia,PHL,Philippines,Lower Middle Income,5.7,28.7
+2018,Africa,CMR,Cameroon,Lower Middle Income,4.3,28.9
+2016,Africa,UGA,Uganda,Low Income,3.5,28.9
+2014,Africa,BFA,Burkina Faso,Low Income,8.5,29
+2014,Africa,SLE,Sierra Leone,Low Income,4.6,29.1
+2016,Asia,MMR,Myanmar,Lower Middle Income,6.6,29.3
+2019,Africa,SLE,Sierra Leone,Low Income,5.4,29.5
+2015,Africa,MLI,Mali,Low Income,13,29.7
+2019,Africa,LBR,Liberia,Low Income,3.4,29.8
+2018,Asia,PHL,Philippines,Lower Middle Income,5.5,29.9
+2015,Africa,BFA,Burkina Faso,Low Income,10.2,30
+2022,Africa,TZA,United Republic Of Tanzania,Lower Middle Income,3.1,30
+2018,Asia,IDN,Indonesia,Upper Middle Income,10.5,30
+2016,Africa,LBR,Liberia,Low Income,4.3,30.1
+2017,Africa,SLE,Sierra Leone,Low Income,6,30.2
+2018,Africa,GIN,Guinea,Lower Middle Income,9.2,30.3
+2020,Africa,TCD,Chad,Low Income,9.4,30.4
+2015,Africa,UGA,Uganda,Low Income,5.5,30.5
+2018,Asia,BGD,Bangladesh,Lower Middle Income,8.4,30.9
+2021,Africa,TCD,Chad,Low Income,10.1,31.1
+2020,Africa,NGA,Nigeria,Lower Middle Income,6.5,31.5
+2019,Asia,NPL,Nepal,Lower Middle Income,12,31.5
+2014,Africa,CMR,Cameroon,Lower Middle Income,5.2,31.7
+2015,Oceania,SLB,Solomon Islands,Lower Middle Income,8.5,31.7
+2018,Africa,TZA,United Republic Of Tanzania,Lower Middle Income,3.5,31.8
+2018,Africa,TCD,Chad,Low Income,13.5,31.9
+2022,Africa,TCD,Chad,Low Income,7.8,31.9
+2018,Africa,BEN,Benin,Lower Middle Income,5,32.1
+2017,Africa,TCD,Chad,Low Income,13.5,32.1
+2016,Africa,GIN,Guinea,Lower Middle Income,8.1,32.4
+2014,Asia,KHM,Cambodia,Lower Middle Income,9.7,32.4
+2021,Africa,TZA,United Republic Of Tanzania,Lower Middle Income,3.6,32.7
+2023,Asia,LAO,Lao People'S Democratic Republic,Lower Middle Income,10.7,32.8
+2015,Africa,NGA,Nigeria,Lower Middle Income,7.3,33
+2015,Asia,PHL,Philippines,Lower Middle Income,6.8,33
+2020,Africa,RWA,Rwanda,Low Income,1.1,33.1
+2017,Asia,LAO,Lao People'S Democratic Republic,Lower Middle Income,9,33.1
+2014,Africa,LSO,Lesotho,Lower Middle Income,2.8,33.5
+2014,Africa,NGA,Nigeria,Lower Middle Income,7.9,33.6
+2021,Africa,NGA,Nigeria,Lower Middle Income,11.5,33.8
+2021,Africa,BEN,Benin,Lower Middle Income,8.3,34
+2014,Africa,UGA,Uganda,Low Income,3.8,34
+2014,Africa,BEN,Benin,Lower Middle Income,4.5,34.1
+2015,Asia,BGD,Bangladesh,Lower Middle Income,11.6,34.4
+2015,Africa,TZA,United Republic Of Tanzania,Lower Middle Income,4.5,34.5
+2018,Africa,LSO,Lesotho,Lower Middle Income,2.1,34.6
+2018,Africa,ZMB,Zambia,Lower Middle Income,4.2,34.6
+2014,Africa,TZA,United Republic Of Tanzania,Lower Middle Income,3.8,34.7
+2017,Oceania,MHL,Marshall Islands,Upper Middle Income,3.5,34.7
+2018,Africa,RWA,Rwanda,Low Income,2,34.8
+2018,Africa,NGA,Nigeria,Lower Middle Income,6.8,34.9
+2019,Africa,TCD,Chad,Low Income,12.9,35.1
+2020,Africa,MWI,Malawi,Low Income,2.2,35.2
+2020,Asia,IND,India,Lower Middle Income,18.7,35.4
+2015,Asia,LAO,Lao People'S Democratic Republic,Lower Middle Income,9.7,35.5
+2015,Africa,TCD,Chad,Low Income,12.9,35.8
+2014,Asia,BGD,Bangladesh,Lower Middle Income,12.7,35.8
+2017,Asia,IND,India,Lower Middle Income,16.9,36.1
+2016,Asia,NPL,Nepal,Lower Middle Income,10.5,36.4
+2019,Africa,ETH,Ethiopia,Low Income,6.8,36.7
+2022,Africa,MOZ,Mozambique,Low Income,3.8,36.8
+2014,Asia,NPL,Nepal,Lower Middle Income,11.3,37.1
+2015,Africa,MWI,Malawi,Low Income,2.8,37.4
+2018,Africa,CAF,Central African Republic,Low Income,6.5,37.5
+2019,Africa,MWI,Malawi,Low Income,2.2,37.5
+2020,Africa,MOZ,Mozambique,Low Income,3.9,37.5
+2015,Africa,AGO,Angola,Lower Middle Income,4.9,37.6
+2015,Africa,RWA,Rwanda,Low Income,2.1,37.6
+2018,Asia,PAK,Pakistan,Lower Middle Income,7.1,37.6
+2022,Africa,CAF,Central African Republic,Low Income,5.7,37.9
+2014,Africa,CAF,Central African Republic,Low Income,6.2,37.9
+2015,Asia,IND,India,Lower Middle Income,20.8,37.9
+2014,Africa,LBY,Libya,Upper Middle Income,10.2,38.1
+2014,Africa,SDN,Sudan,Low Income,16.3,38.2
+2018,Asia,AFG,Afghanistan,Low Income,5.1,38.2
+2016,Africa,ETH,Ethiopia,Low Income,10,38.3
+2014,Asia,IND,India,Lower Middle Income,15.1,38.7
+2018,Africa,MWI,Malawi,Low Income,1.3,39
+2016,Africa,MWI,Malawi,Low Income,3.7,39.1
+2017,Africa,MWI,Malawi,Low Income,2.4,39.3
+2021,Africa,MDG,Madagascar,Low Income,7.2,39.8
+2019,Africa,CAF,Central African Republic,Low Income,5.3,40
+2014,Africa,ETH,Ethiopia,Low Income,8.8,40.4
+2016,Africa,NER,Niger,Low Income,10.4,41.3
+2018,Africa,MDG,Madagascar,Low Income,6.4,41.6
+2017,Africa,COD,Democratic Republic Of The Congo,Low Income,6.4,41.9
+2014,Africa,NER,Niger,Low Income,14.2,42.2
+2014,Africa,MWI,Malawi,Low Income,3.8,42.4
+2015,Africa,MOZ,Mozambique,Low Income,4.4,42.4
+2016,Africa,NGA,Nigeria,Lower Middle Income,10.8,43.6
+2021,Africa,NER,Niger,Low Income,11.5,44.5
+2023,Africa,COD,Democratic Republic Of The Congo,Low Income,7.2,44.6
+2022,Asia,AFG,Afghanistan,Low Income,3.6,44.6
+2021,Asia,YEM,Yemen,Low Income,9.9,45
+2015,Latin America and the Caribbean,GTM,Guatemala,Upper Middle Income,1.3,45.1
+2020,Africa,NER,Niger,Low Income,12,45.3
+2021,Latin America and the Caribbean,GTM,Guatemala,Upper Middle Income,0.8,46
+2015,Africa,NER,Niger,Low Income,13.5,46.4
+2020,Asia,TLS,Timor-Leste,Lower Middle Income,8.3,46.7
+2019,Africa,NER,Niger,Low Income,9.8,47.1
+2022,Africa,NER,Niger,Low Income,10.9,47.7
+2018,Africa,NER,Niger,Low Income,14.1,48.5
+2022,Asia,YEM,Yemen,Low Income,16.8,48.5
+2014,Asia,TLS,Timor-Leste,Lower Middle Income,12.2,49.1
+2020,Africa,BDI,Burundi,Low Income,5.7,50.9
+2019,Africa,BDI,Burundi,Low Income,4.8,54.1
+2022,Africa,BDI,Burundi,Low Income,4.8,55.8
+2016,Africa,BDI,Burundi,Low Income,5.1,55.9
+2018,Africa,BDI,Burundi,Low Income,4.8,56.6
+2023,Africa,BDI,Burundi,Low Income,5.3,56.9

@@ -1,0 +1,827 @@
+Year,Region Name,Country Code,Country Name,Total Number of Deaths,Number of Deaths Per 100000 of Population,World Bank Classification Region,World Bank Income Classification,Income Classification Code
+2014,Africa,EGY,Egypt,421,18.5,Middle East & North Africa,Lower middle income,LMIC
+2014,Africa,MUS,Mauritius,0,0,Sub-Saharan Africa,Upper middle income,UMIC
+2014,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2014,Asia,BHR,Bahrain,0,0,Middle East & North Africa,High income,HIC
+2014,Africa,MYT,Mayotte,0,0,,Not Classified,
+2014,Africa,REU,Reunion,0,0,,Not Classified,
+2014,Africa,SYC,Seychelles,0,0,Sub-Saharan Africa,High income,HIC
+2014,Asia,BRN,Brunei Darussalam,0,0,East Asia & Pacific,High income,HIC
+2014,Africa,ZAF,South Africa,1693,95.4,Sub-Saharan Africa,Upper middle income,UMIC
+2014,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2014,Asia,HKG,"China, Hong Kong SAR",0,0,East Asia & Pacific,High income,HIC
+2014,Asia,GEO,Georgia,5,8.4,Europe & Central Asia,Upper middle income,UMIC
+2014,Asia,IRN,Iran (Islamic Republic of),42,2.3,Middle East & North Africa,Upper middle income,UMIC
+2014,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2014,Asia,JPN,Japan,1,0,East Asia & Pacific,High income,HIC
+2014,Asia,KAZ,Kazakhstan,9,1.7,Europe & Central Asia,Upper middle income,UMIC
+2014,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2014,Asia,KWT,Kuwait,0,0,Middle East & North Africa,High income,HIC
+2014,Asia,KGZ,Kyrgyzstan,0,0,Europe & Central Asia,Lower middle income,LMIC
+2014,Asia,MYS,Malaysia,4,0.6,East Asia & Pacific,Upper middle income,UMIC
+2014,Asia,MDV,Maldives,1,13.8,South Asia,Upper middle income,UMIC
+2014,Asia,OMN,Oman,1,0.3,Middle East & North Africa,High income,HIC
+2014,Asia,PHL,Philippines,527,14.4,East Asia & Pacific,Lower middle income,LMIC
+2014,Asia,QAT,Qatar,2,5.1,Middle East & North Africa,High income,HIC
+2014,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2014,Asia,LKA,Sri Lanka,3,0.4,South Asia,Lower middle income,LMIC
+2014,Asia,TUR,Turkey,50,2.8,Europe & Central Asia,Upper middle income,UMIC
+2014,Asia,THA,Thailand,6,0.6,East Asia & Pacific,Upper middle income,UMIC
+2014,Asia,TKM,Turkmenistan,6,3,Europe & Central Asia,Upper middle income,UMIC
+2014,Asia,UZB,Uzbekistan,20,1,Europe & Central Asia,Lower middle income,LMIC
+2014,Central and South America,ARG,Argentina,22,2,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,BLZ,Belize,4,41.2,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,BRA,Brazil,388,10.1,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,CHL,Chile,3,1.2,Latin America & Caribbean,High income,HIC
+2014,Central and South America,COL,Colombia,297,29.1,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,CRI,Costa Rica,3,4.1,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,ECU,Ecuador,61,13.2,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,SLV,El Salvador,9,6.4,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,GUF,French Guiana,0,0,,Not Classified,
+2014,Central and South America,GTM,Guatemala,297,46.1,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,GUY,Guyana,10,57.6,Latin America & Caribbean,High income,HIC
+2014,Central and South America,MEX,Mexico,519,16.2,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,NIC,Nicaragua,49,27.4,Latin America & Caribbean,Lower middle income,LMIC
+2014,Central and South America,PAN,Panama,38,23.8,Latin America & Caribbean,High income,HIC
+2014,Central and South America,PRY,Paraguay,62,31.1,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,PER,Peru,28,3.4,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,SUR,Suriname,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2014,Central and South America,URY,Uruguay,1,2,Latin America & Caribbean,High income,HIC
+2014,Central and South America,VEN,Venezuela (Bolivarian Republic of),159,16.8,Latin America & Caribbean,Upper middle income,UMIC until 2021
+2014,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,BLR,Belarus,0,0,Europe & Central Asia,Upper middle income,UMIC
+2014,Europe,BEL,Belgium,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2014,Europe,BGR,Bulgaria,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,FRA,France,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,DEU,Germany,1,0,Europe & Central Asia,High income,HIC
+2014,Europe,GRC,Greece,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,HUN,Hungary,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,ITA,Italy,1,0.2,Europe & Central Asia,High income,HIC
+2014,Europe,LVA,Latvia,2,6,Europe & Central Asia,High income,HIC
+2014,Europe,LTU,Lithuania,1,3.3,Europe & Central Asia,High income,HIC
+2014,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2014,Europe,NLD,Netherlands,1,0.6,Europe & Central Asia,High income,HIC
+2014,Europe,NOR,Norway,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,PRT,Portugal,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2014,Europe,ROU,Romania,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,RUS,Russian Federation,32,1.1,Europe & Central Asia,High income,HIC
+2014,Europe,SRB,Serbia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2014,Europe,SVK,Slovakia,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,ESP,Spain,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2014,Europe,UKR,Ukraine,4,0.4,Europe & Central Asia,Upper middle income,UMIC
+2014,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2,0.1,Europe & Central Asia,High income,HIC
+2014,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2014,North America and the Caribbean,BHS,Bahamas,0,0,Latin America & Caribbean,High income,HIC
+2014,North America and the Caribbean,CAN,Canada,1,0.3,North America,High income,HIC
+2014,North America and the Caribbean,CUB,Cuba,2,0.9,Latin America & Caribbean,Upper middle income,UMIC
+2014,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2014,North America and the Caribbean,DOM,Dominican Republic,44,18.3,Latin America & Caribbean,Upper middle income,UMIC
+2014,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2014,North America and the Caribbean,GLP,Guadeloupe,0,0,,Not Classified,
+2014,North America and the Caribbean,JAM,Jamaica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2014,North America and the Caribbean,MTQ,Martinique,0,0,,Not Classified,
+2014,North America and the Caribbean,PRI,Puerto Rico,0,0,Latin America & Caribbean,High income,HIC
+2014,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2014,North America and the Caribbean,LCA,Saint Lucia,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2014,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2014,North America and the Caribbean,TTO,Trinidad and Tobago,3,7.8,Latin America & Caribbean,High income,HIC
+2014,North America and the Caribbean,USA,United States of America,13,0.2,North America,High income,HIC
+2014,Oceania,AUS,Australia,0,0,East Asia & Pacific,High income,HIC
+2014,Oceania,NZL,New Zealand,0,0,East Asia & Pacific,High income,HIC
+2015,Africa,EGY,Egypt,386,12.1,Middle East & North Africa,Lower middle income,LMIC
+2015,Africa,MUS,Mauritius,0,0,Sub-Saharan Africa,Upper middle income,UMIC
+2015,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2015,Africa,MYT,Mayotte,0,0,,Not Classified,
+2015,Africa,REU,Reunion,0,0,,Not Classified,
+2015,Africa,SYC,Seychelles,1,63.2,Sub-Saharan Africa,High income,HIC
+2015,Asia,BRN,Brunei Darussalam,0,0,East Asia & Pacific,High income,HIC
+2015,Africa,ZAF,South Africa,1569,91.7,Sub-Saharan Africa,Upper middle income,UMIC
+2015,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2015,Asia,HKG,"China, Hong Kong SAR",0,0,East Asia & Pacific,High income,HIC
+2015,Asia,GEO,Georgia,1,1.7,Europe & Central Asia,Upper middle income,UMIC
+2015,Asia,IRN,Iran (Islamic Republic of),62,3.4,Middle East & North Africa,Upper middle income,UMIC
+2015,Asia,IRQ,Iraq,55,4.3,Middle East & North Africa,Upper middle income,UMIC
+2015,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2015,Asia,JPN,Japan,3,0.2,East Asia & Pacific,High income,HIC
+2015,Asia,JOR,Jordan,1,0.1,Middle East & North Africa,Lower middle income,LMIC
+2015,Asia,KAZ,Kazakhstan,4,0.6,Europe & Central Asia,Upper middle income,UMIC
+2015,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2015,Asia,KWT,Kuwait,1,1.7,Middle East & North Africa,High income,HIC
+2015,Asia,KGZ,Kyrgyzstan,8,5,Europe & Central Asia,Lower middle income,LMIC
+2015,Asia,MYS,Malaysia,6,1,East Asia & Pacific,Upper middle income,UMIC
+2015,Asia,MDV,Maldives,0,0,South Asia,Upper middle income,UMIC
+2015,Asia,QAT,Qatar,1,4,Middle East & North Africa,High income,HIC
+2015,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2015,Asia,LKA,Sri Lanka,4,0.7,South Asia,Lower middle income,LMIC
+2015,Asia,TUR,Turkey,44,2.2,Europe & Central Asia,Upper middle income,UMIC
+2015,Asia,THA,Thailand,8,0.7,East Asia & Pacific,Upper middle income,UMIC
+2015,Asia,TKM,Turkmenistan,2,0.4,Europe & Central Asia,Upper middle income,UMIC
+2015,Asia,UZB,Uzbekistan,7,0.3,Europe & Central Asia,Lower middle income,LMIC
+2015,Central and South America,ARG,Argentina,21,2.1,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,BLZ,Belize,1,3.3,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,BRA,Brazil,337,8.5,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,CHL,Chile,0,0,Latin America & Caribbean,High income,HIC
+2015,Central and South America,COL,Colombia,298,28.6,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,CRI,Costa Rica,1,1.4,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,ECU,Ecuador,50,10.9,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,SLV,El Salvador,14,7.5,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,GUF,French Guiana,0,0,,Not Classified,
+2015,Central and South America,GTM,Guatemala,254,41.1,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,GUY,Guyana,5,17.4,Latin America & Caribbean,High income,HIC
+2015,Central and South America,MEX,Mexico,463,14.7,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,NIC,Nicaragua,48,30.2,Latin America & Caribbean,Lower middle income,LMIC
+2015,Central and South America,PAN,Panama,38,22.8,Latin America & Caribbean,High income,HIC
+2015,Central and South America,PRY,Paraguay,55,27.2,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,PER,Peru,68,8.2,Latin America & Caribbean,Upper middle income,UMIC
+2015,Central and South America,URY,Uruguay,2,2.6,Latin America & Caribbean,High income,HIC
+2015,Central and South America,VEN,Venezuela (Bolivarian Republic of),237,28.5,Latin America & Caribbean,Upper middle income,UMIC until 2021
+2015,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,BEL,Belgium,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,BGR,Bulgaria,1,1.5,Europe & Central Asia,High income,HIC
+2015,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,FRA,France,1,0.1,Europe & Central Asia,High income,HIC
+2015,Europe,DEU,Germany,2,0.2,Europe & Central Asia,High income,HIC
+2015,Europe,GRC,Greece,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,HUN,Hungary,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,ITA,Italy,2,0.4,Europe & Central Asia,High income,HIC
+2015,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2015,Europe,NLD,Netherlands,2,1.2,Europe & Central Asia,High income,HIC
+2015,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2015,Europe,NOR,Norway,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,PRT,Portugal,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2015,Europe,ROU,Romania,2,0.6,Europe & Central Asia,High income,HIC
+2015,Europe,RUS,Russian Federation,31,0.9,Europe & Central Asia,High income,HIC
+2015,Europe,SRB,Serbia,1,1.5,Europe & Central Asia,Upper middle income,UMIC
+2015,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,ESP,Spain,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2015,Europe,UKR,Ukraine,3,0.3,Europe & Central Asia,Upper middle income,UMIC
+2015,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,4,0.2,Europe & Central Asia,High income,HIC
+2015,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2015,North America and the Caribbean,BHS,Bahamas,1,21.7,Latin America & Caribbean,High income,HIC
+2015,North America and the Caribbean,CAN,Canada,1,0.1,North America,High income,HIC
+2015,North America and the Caribbean,CUB,Cuba,1,0.8,Latin America & Caribbean,Upper middle income,UMIC
+2015,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2015,North America and the Caribbean,DOM,Dominican Republic,56,24.9,Latin America & Caribbean,Upper middle income,UMIC
+2015,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2015,North America and the Caribbean,GLP,Guadeloupe,0,0,,Not Classified,
+2015,North America and the Caribbean,MTQ,Martinique,0,0,,Not Classified,
+2015,North America and the Caribbean,PRI,Puerto Rico,0,0,Latin America & Caribbean,High income,HIC
+2015,North America and the Caribbean,KNA,Saint Kitts and Nevis,1,0,Latin America & Caribbean,High income,HIC
+2015,North America and the Caribbean,LCA,Saint Lucia,1,43,Latin America & Caribbean,Upper middle income,UMIC
+2015,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2015,North America and the Caribbean,TTO,Trinidad and Tobago,0,0,Latin America & Caribbean,High income,HIC
+2015,North America and the Caribbean,USA,United States of America,17,0.3,North America,High income,HIC
+2015,Oceania,AUS,Australia,0,0,East Asia & Pacific,High income,HIC
+2015,Oceania,NZL,New Zealand,0,0,East Asia & Pacific,High income,HIC
+2016,Africa,EGY,Egypt,326,10,Middle East & North Africa,Lower middle income,LMIC
+2016,Africa,MUS,Mauritius,1,8.3,Sub-Saharan Africa,Upper middle income,UMIC
+2016,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2016,Africa,MYT,Mayotte,0,0,,Not Classified,
+2016,Africa,REU,Reunion,2,8.9,,Not Classified,
+2016,Africa,SYC,Seychelles,0,0,Sub-Saharan Africa,High income,HIC
+2016,Asia,BRN,Brunei Darussalam,0,0,East Asia & Pacific,High income,HIC
+2016,Africa,ZAF,South Africa,1226,74.5,Sub-Saharan Africa,Upper middle income,UMIC
+2016,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2016,Asia,HKG,"China, Hong Kong SAR",0,0,East Asia & Pacific,High income,HIC
+2016,Asia,GEO,Georgia,3,5.2,Europe & Central Asia,Upper middle income,UMIC
+2016,Asia,IRN,Iran (Islamic Republic of),54,3.2,Middle East & North Africa,Upper middle income,UMIC
+2016,Asia,IRQ,Iraq,43,3.4,Middle East & North Africa,Upper middle income,UMIC
+2016,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2016,Asia,JPN,Japan,2,0.1,East Asia & Pacific,High income,HIC
+2016,Asia,JOR,Jordan,1,0.4,Middle East & North Africa,Lower middle income,LMIC
+2016,Asia,KAZ,Kazakhstan,6,0.6,Europe & Central Asia,Upper middle income,UMIC
+2016,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2016,Asia,KWT,Kuwait,0,0,Middle East & North Africa,High income,HIC
+2016,Asia,KGZ,Kyrgyzstan,3,1.5,Europe & Central Asia,Lower middle income,LMIC
+2016,Asia,MYS,Malaysia,10,1,East Asia & Pacific,Upper middle income,UMIC
+2016,Asia,MDV,Maldives,1,3.3,South Asia,Upper middle income,UMIC
+2016,Asia,MNG,Mongolia,2,2.5,East Asia & Pacific,Upper middle income,UMIC
+2016,Asia,OMN,Oman,1,1.1,Middle East & North Africa,High income,HIC
+2016,Asia,PHL,Philippines,454,11.7,East Asia & Pacific,Lower middle income,LMIC
+2016,Asia,QAT,Qatar,0,0,Middle East & North Africa,High income,HIC
+2016,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2016,Asia,TJK,Tajikistan,11,2.7,Europe & Central Asia,Lower middle income,LMIC
+2016,Asia,TUR,Turkey,47,2.3,Europe & Central Asia,Upper middle income,UMIC
+2016,Asia,THA,Thailand,6,0.9,East Asia & Pacific,Upper middle income,UMIC
+2016,Asia,UZB,Uzbekistan,8,0.4,Europe & Central Asia,Lower middle income,LMIC
+2016,Central and South America,ARG,Argentina,19,1.8,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,BLZ,Belize,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,BRA,Brazil,333,8.1,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,CHL,Chile,3,0.3,Latin America & Caribbean,High income,HIC
+2016,Central and South America,COL,Colombia,363,33,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,CRI,Costa Rica,1,0.3,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,ECU,Ecuador,61,10.8,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,SLV,El Salvador,7,3.5,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,GUF,French Guiana,0,0,,Not Classified,
+2016,Central and South America,GTM,Guatemala,306,48.6,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,GUY,Guyana,6,28.3,Latin America & Caribbean,High income,HIC
+2016,Central and South America,MEX,Mexico,393,12.4,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,NIC,Nicaragua,53,33.5,Latin America & Caribbean,Lower middle income,LMIC
+2016,Central and South America,PAN,Panama,47,28.5,Latin America & Caribbean,High income,HIC
+2016,Central and South America,PRY,Paraguay,57,33.6,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,PER,Peru,80,9.7,Latin America & Caribbean,Upper middle income,UMIC
+2016,Central and South America,URY,Uruguay,4,6.6,Latin America & Caribbean,High income,HIC
+2016,Central and South America,VEN,Venezuela (Bolivarian Republic of),455,63.3,Latin America & Caribbean,Upper middle income,UMIC until 2021
+2016,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,BEL,Belgium,1,0.2,Europe & Central Asia,High income,HIC
+2016,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2016,Europe,BGR,Bulgaria,1,1.5,Europe & Central Asia,High income,HIC
+2016,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,FRA,France,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,DEU,Germany,1,0,Europe & Central Asia,High income,HIC
+2016,Europe,GRC,Greece,1,0.3,Europe & Central Asia,High income,HIC
+2016,Europe,HUN,Hungary,2,0.5,Europe & Central Asia,High income,HIC
+2016,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,ITA,Italy,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2016,Europe,NLD,Netherlands,1,0.6,Europe & Central Asia,High income,HIC
+2016,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2016,Europe,NOR,Norway,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,PRT,Portugal,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2016,Europe,ROU,Romania,5,1,Europe & Central Asia,High income,HIC
+2016,Europe,RUS,Russian Federation,28,0.8,Europe & Central Asia,High income,HIC
+2016,Europe,SRB,Serbia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2016,Europe,SVK,Slovakia,1,1.7,Europe & Central Asia,High income,HIC
+2016,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,ESP,Spain,1,0.2,Europe & Central Asia,High income,HIC
+2016,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2016,Europe,CHE,Switzerland,1,1.2,Europe & Central Asia,High income,HIC
+2016,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,4,0.3,Europe & Central Asia,High income,HIC
+2016,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2016,North America and the Caribbean,BHS,Bahamas,0,0,Latin America & Caribbean,High income,HIC
+2016,North America and the Caribbean,CAN,Canada,0,0,North America,High income,HIC
+2016,North America and the Caribbean,CUB,Cuba,3,1.7,Latin America & Caribbean,Upper middle income,UMIC
+2016,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2016,North America and the Caribbean,DOM,Dominican Republic,41,15.4,Latin America & Caribbean,Upper middle income,UMIC
+2016,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2016,North America and the Caribbean,GLP,Guadeloupe,0,0,,Not Classified,
+2016,North America and the Caribbean,MTQ,Martinique,0,0,,Not Classified,
+2016,North America and the Caribbean,PRI,Puerto Rico,1,4.3,Latin America & Caribbean,High income,HIC
+2016,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2016,North America and the Caribbean,LCA,Saint Lucia,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2016,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2016,North America and the Caribbean,TTO,Trinidad and Tobago,0,0,Latin America & Caribbean,High income,HIC
+2016,North America and the Caribbean,USA,United States of America,9,0.2,North America,High income,HIC
+2016,Oceania,AUS,Australia,1,0.3,East Asia & Pacific,High income,HIC
+2016,Oceania,NZL,New Zealand,0,0,East Asia & Pacific,High income,HIC
+2017,Africa,EGY,Egypt,361,11.1,Middle East & North Africa,Lower middle income,LMIC
+2017,Africa,MUS,Mauritius,2,10.2,Sub-Saharan Africa,Upper middle income,UMIC
+2017,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2017,Africa,SYC,Seychelles,0,0,Sub-Saharan Africa,High income,HIC
+2017,Asia,BRN,Brunei Darussalam,0,0,East Asia & Pacific,High income,HIC
+2017,Africa,ZAF,South Africa,894,52.5,Sub-Saharan Africa,Upper middle income,UMIC
+2017,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2017,Asia,HKG,"China, Hong Kong SAR",1,1.9,East Asia & Pacific,High income,HIC
+2017,Asia,GEO,Georgia,8,10.5,Europe & Central Asia,Upper middle income,UMIC
+2017,Asia,IRN,Iran (Islamic Republic of),43,2.1,Middle East & North Africa,Upper middle income,UMIC
+2017,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2017,Asia,JPN,Japan,3,0.2,East Asia & Pacific,High income,HIC
+2017,Asia,JOR,Jordan,1,0.5,Middle East & North Africa,Lower middle income,LMIC
+2017,Asia,KAZ,Kazakhstan,4,0.8,Europe & Central Asia,Upper middle income,UMIC
+2017,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2017,Asia,KWT,Kuwait,1,0.4,Middle East & North Africa,High income,HIC
+2017,Asia,KGZ,Kyrgyzstan,2,0.8,Europe & Central Asia,Lower middle income,LMIC
+2017,Asia,MYS,Malaysia,6,0.8,East Asia & Pacific,Upper middle income,UMIC
+2017,Asia,MDV,Maldives,0,0,South Asia,Upper middle income,UMIC
+2017,Asia,MNG,Mongolia,4,5.9,East Asia & Pacific,Upper middle income,UMIC
+2017,Asia,OMN,Oman,4,4.3,Middle East & North Africa,High income,HIC
+2017,Asia,PHL,Philippines,523,12.3,East Asia & Pacific,Lower middle income,LMIC
+2017,Asia,QAT,Qatar,0,0,Middle East & North Africa,High income,HIC
+2017,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2017,Asia,TJK,Tajikistan,5,1.2,Europe & Central Asia,Lower middle income,LMIC
+2017,Asia,TUR,Turkey,32,1.4,Europe & Central Asia,Upper middle income,UMIC
+2017,Asia,THA,Thailand,4,0.5,East Asia & Pacific,Upper middle income,UMIC
+2017,Asia,UZB,Uzbekistan,12,0.5,Europe & Central Asia,Lower middle income,LMIC
+2017,Central and South America,ARG,Argentina,21,1.8,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,BLZ,Belize,3,9.6,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,BRA,Brazil,297,7.8,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,CHL,Chile,2,0.2,Latin America & Caribbean,High income,HIC
+2017,Central and South America,COL,Colombia,254,24.6,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,CRI,Costa Rica,1,1.4,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,ECU,Ecuador,45,10.8,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,SLV,El Salvador,3,1.3,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,GTM,Guatemala,212,35.8,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,GUY,Guyana,10,64,Latin America & Caribbean,High income,HIC
+2017,Central and South America,MEX,Mexico,436,13.5,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,NIC,Nicaragua,55,31.8,Latin America & Caribbean,Lower middle income,LMIC
+2017,Central and South America,PAN,Panama,32,19.9,Latin America & Caribbean,High income,HIC
+2017,Central and South America,PRY,Paraguay,35,18.9,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,PER,Peru,87,10.3,Latin America & Caribbean,Upper middle income,UMIC
+2017,Central and South America,URY,Uruguay,0,0,Latin America & Caribbean,High income,HIC
+2017,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,BEL,Belgium,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2017,Europe,BGR,Bulgaria,2,1.9,Europe & Central Asia,High income,HIC
+2017,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,FRA,France,3,0.3,Europe & Central Asia,High income,HIC
+2017,Europe,DEU,Germany,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,GRC,Greece,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,HUN,Hungary,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,ITA,Italy,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2017,Europe,MNE,Montenegro,0,0,Europe & Central Asia,Upper middle income,UMIC
+2017,Europe,NLD,Netherlands,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2017,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,PRT,Portugal,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2017,Europe,ROU,Romania,5,1.7,Europe & Central Asia,High income,HIC
+2017,Europe,RUS,Russian Federation,14,0.3,Europe & Central Asia,High income,HIC
+2017,Europe,SRB,Serbia,1,0.4,Europe & Central Asia,Upper middle income,UMIC
+2017,Europe,SVK,Slovakia,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,ESP,Spain,1,0.3,Europe & Central Asia,High income,HIC
+2017,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2017,Europe,CHE,Switzerland,1,0.3,Europe & Central Asia,High income,HIC
+2017,Europe,UKR,Ukraine,2,0.1,Europe & Central Asia,Upper middle income,UMIC
+2017,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2,0.2,Europe & Central Asia,High income,HIC
+2017,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2017,North America and the Caribbean,CAN,Canada,0,0,North America,High income,HIC
+2017,North America and the Caribbean,CUB,Cuba,6,3.7,Latin America & Caribbean,Upper middle income,UMIC
+2017,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2017,North America and the Caribbean,DOM,Dominican Republic,13,5.7,Latin America & Caribbean,Upper middle income,UMIC
+2017,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2017,North America and the Caribbean,PRI,Puerto Rico,0,0,Latin America & Caribbean,High income,HIC
+2017,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2017,North America and the Caribbean,LCA,Saint Lucia,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2017,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2017,North America and the Caribbean,TTO,Trinidad and Tobago,1,1.3,Latin America & Caribbean,High income,HIC
+2017,North America and the Caribbean,USA,United States of America,10,0.2,North America,High income,HIC
+2017,Oceania,AUS,Australia,0,0,East Asia & Pacific,High income,HIC
+2017,Oceania,NZL,New Zealand,0,0,East Asia & Pacific,High income,HIC
+2018,Africa,EGY,Egypt,254,8.1,Middle East & North Africa,Lower middle income,LMIC
+2018,Africa,MUS,Mauritius,5,26.9,Sub-Saharan Africa,Upper middle income,UMIC
+2018,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2018,Asia,BRN,Brunei Darussalam,0,0,East Asia & Pacific,High income,HIC
+2018,Africa,ZAF,South Africa,822,51,Sub-Saharan Africa,Upper middle income,UMIC
+2018,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2018,Asia,GEO,Georgia,8,9.4,Europe & Central Asia,Upper middle income,UMIC
+2018,Asia,ISR,Israel,1,0.5,Middle East & North Africa,High income,HIC
+2018,Asia,JPN,Japan,0,0,East Asia & Pacific,High income,HIC
+2018,Asia,JOR,Jordan,0,0,Middle East & North Africa,Lower middle income,LMIC
+2018,Asia,KAZ,Kazakhstan,4,1,Europe & Central Asia,Upper middle income,UMIC
+2018,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2018,Asia,KWT,Kuwait,0,0,Middle East & North Africa,High income,HIC
+2018,Asia,KGZ,Kyrgyzstan,2,0.8,Europe & Central Asia,Lower middle income,LMIC
+2018,Asia,MYS,Malaysia,2,0.4,East Asia & Pacific,Upper middle income,UMIC
+2018,Asia,MDV,Maldives,0,0,South Asia,Upper middle income,UMIC
+2018,Asia,MNG,Mongolia,2,2.6,East Asia & Pacific,Upper middle income,UMIC
+2018,Asia,OMN,Oman,0,0,Middle East & North Africa,High income,HIC
+2018,Asia,PHL,Philippines,463,10.8,East Asia & Pacific,Lower middle income,LMIC
+2018,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2018,Asia,TJK,Tajikistan,5,0.7,Europe & Central Asia,Lower middle income,LMIC
+2018,Asia,TUR,Turkey,34,1.3,Europe & Central Asia,Upper middle income,UMIC
+2018,Asia,THA,Thailand,5,0.4,East Asia & Pacific,Upper middle income,UMIC
+2018,Asia,ARE,United Arab Emirates,12,11.1,Middle East & North Africa,High income,HIC
+2018,Asia,UZB,Uzbekistan,16,0.9,Europe & Central Asia,Lower middle income,LMIC
+2018,Central and South America,ARG,Argentina,16,1.4,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,BLZ,Belize,2,15.8,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,BRA,Brazil,262,6.9,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,CHL,Chile,2,0.5,Latin America & Caribbean,High income,HIC
+2018,Central and South America,COL,Colombia,398,37.1,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,CRI,Costa Rica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,ECU,Ecuador,50,10.2,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,SLV,El Salvador,7,4.7,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,GTM,Guatemala,198,32.3,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,GUY,Guyana,9,49.7,Latin America & Caribbean,High income,HIC
+2018,Central and South America,MEX,Mexico,300,9.1,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,NIC,Nicaragua,60,35.9,Latin America & Caribbean,Lower middle income,LMIC
+2018,Central and South America,PAN,Panama,49,33.1,Latin America & Caribbean,High income,HIC
+2018,Central and South America,PRY,Paraguay,43,27,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,PER,Peru,110,10.6,Latin America & Caribbean,Upper middle income,UMIC
+2018,Central and South America,URY,Uruguay,0,0,Latin America & Caribbean,High income,HIC
+2018,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,BLR,Belarus,0,0,Europe & Central Asia,Upper middle income,UMIC
+2018,Europe,BEL,Belgium,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2018,Europe,BGR,Bulgaria,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,FRA,France,1,0,Europe & Central Asia,High income,HIC
+2018,Europe,DEU,Germany,1,0.1,Europe & Central Asia,High income,HIC
+2018,Europe,GRC,Greece,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,HUN,Hungary,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,ITA,Italy,1,0.2,Europe & Central Asia,High income,HIC
+2018,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2018,Europe,NLD,Netherlands,1,0.6,Europe & Central Asia,High income,HIC
+2018,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2018,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,PRT,Portugal,1,1.2,Europe & Central Asia,High income,HIC
+2018,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2018,Europe,ROU,Romania,1,0.1,Europe & Central Asia,High income,HIC
+2018,Europe,RUS,Russian Federation,21,0.6,Europe & Central Asia,High income,HIC
+2018,Europe,SRB,Serbia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2018,Europe,SVK,Slovakia,1,0.4,Europe & Central Asia,High income,HIC
+2018,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,ESP,Spain,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2018,Europe,UKR,Ukraine,4,1.1,Europe & Central Asia,Upper middle income,UMIC
+2018,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,5,0.4,Europe & Central Asia,High income,HIC
+2018,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2018,North America and the Caribbean,CAN,Canada,0,0,North America,High income,HIC
+2018,North America and the Caribbean,CUB,Cuba,3,2,Latin America & Caribbean,Upper middle income,UMIC
+2018,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2018,North America and the Caribbean,DOM,Dominican Republic,18,8.1,Latin America & Caribbean,Upper middle income,UMIC
+2018,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2018,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2018,North America and the Caribbean,LCA,Saint Lucia,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2018,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2018,North America and the Caribbean,TTO,Trinidad and Tobago,0,0,Latin America & Caribbean,High income,HIC
+2018,North America and the Caribbean,USA,United States of America,15,0.3,North America,High income,HIC
+2018,Oceania,AUS,Australia,2,0.4,East Asia & Pacific,High income,HIC
+2018,Oceania,NZL,New Zealand,0,0,East Asia & Pacific,High income,HIC
+2019,Africa,EGY,Egypt,202,7.3,Middle East & North Africa,Lower middle income,LMIC
+2019,Africa,MUS,Mauritius,1,7.7,Sub-Saharan Africa,Upper middle income,UMIC
+2019,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2019,Africa,SYC,Seychelles,1,61.5,Sub-Saharan Africa,High income,HIC
+2019,Asia,BRN,Brunei Darussalam,0,0,East Asia & Pacific,High income,HIC
+2019,Africa,ZAF,South Africa,845,54.4,Sub-Saharan Africa,Upper middle income,UMIC
+2019,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2019,Asia,GEO,Georgia,4,4.9,Europe & Central Asia,Upper middle income,UMIC
+2019,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2019,Asia,JPN,Japan,4,0.3,East Asia & Pacific,High income,HIC
+2019,Asia,KAZ,Kazakhstan,2,0.1,Europe & Central Asia,Upper middle income,UMIC
+2019,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2019,Asia,KWT,Kuwait,0,0,Middle East & North Africa,High income,HIC
+2019,Asia,KGZ,Kyrgyzstan,5,2.5,Europe & Central Asia,Lower middle income,LMIC
+2019,Asia,LBN,Lebanon,3,2.7,Middle East & North Africa,Lower middle income,LMIC
+2019,Asia,MYS,Malaysia,7,1,East Asia & Pacific,Upper middle income,UMIC
+2019,Asia,MDV,Maldives,0,0,South Asia,Upper middle income,UMIC
+2019,Asia,MNG,Mongolia,0,0,East Asia & Pacific,Upper middle income,UMIC
+2019,Asia,OMN,Oman,2,2,Middle East & North Africa,High income,HIC
+2019,Asia,PHL,Philippines,360,8.8,East Asia & Pacific,Lower middle income,LMIC
+2019,Asia,QAT,Qatar,1,3.8,Middle East & North Africa,High income,HIC
+2019,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2019,Asia,LKA,Sri Lanka,4,1.2,South Asia,Lower middle income,LMIC
+2019,Asia,TJK,Tajikistan,14,3.2,Europe & Central Asia,Lower middle income,LMIC
+2019,Asia,TUR,Turkey,20,0.9,Europe & Central Asia,Upper middle income,UMIC
+2019,Asia,THA,Thailand,10,1.3,East Asia & Pacific,Upper middle income,UMIC
+2019,Asia,ARE,United Arab Emirates,0,0,Middle East & North Africa,High income,HIC
+2019,Asia,UZB,Uzbekistan,20,1.2,Europe & Central Asia,Lower middle income,LMIC
+2019,Central and South America,ARG,Argentina,14,1,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,BLZ,Belize,3,38,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,BRA,Brazil,270,6.6,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,CHL,Chile,0,0,Latin America & Caribbean,High income,HIC
+2019,Central and South America,COL,Colombia,362,36.6,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,CRI,Costa Rica,4,2.4,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,ECU,Ecuador,57,13.6,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,GTM,Guatemala,238,39,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,GUY,Guyana,10,58.1,Latin America & Caribbean,High income,HIC
+2019,Central and South America,MEX,Mexico,307,9.6,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,NIC,Nicaragua,55,36.4,Latin America & Caribbean,Lower middle income,LMIC
+2019,Central and South America,PAN,Panama,42,33.9,Latin America & Caribbean,High income,HIC
+2019,Central and South America,PRY,Paraguay,34,17.6,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,PER,Peru,93,10.5,Latin America & Caribbean,Upper middle income,UMIC
+2019,Central and South America,URY,Uruguay,1,0.5,Latin America & Caribbean,High income,HIC
+2019,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,BEL,Belgium,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,BIH,Bosnia and Herzegovina,1,0.9,Europe & Central Asia,Upper middle income,UMIC
+2019,Europe,BGR,Bulgaria,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,FRA,France,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,DEU,Germany,2,0.2,Europe & Central Asia,High income,HIC
+2019,Europe,GRC,Greece,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,HUN,Hungary,1,0.3,Europe & Central Asia,High income,HIC
+2019,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,ITA,Italy,2,0.5,Europe & Central Asia,High income,HIC
+2019,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2019,Europe,MNE,Montenegro,0,0,Europe & Central Asia,Upper middle income,UMIC
+2019,Europe,NLD,Netherlands,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,MKD,North Macedonia,1,4.9,Europe & Central Asia,Upper middle income,UMIC
+2019,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,PRT,Portugal,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2019,Europe,ROU,Romania,1,0.1,Europe & Central Asia,High income,HIC
+2019,Europe,RUS,Russian Federation,25,0.8,Europe & Central Asia,High income,HIC
+2019,Europe,SRB,Serbia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2019,Europe,SVK,Slovakia,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,ESP,Spain,1,0.3,Europe & Central Asia,High income,HIC
+2019,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2019,Europe,UKR,Ukraine,4,0.5,Europe & Central Asia,Upper middle income,UMIC
+2019,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,5,0.5,Europe & Central Asia,High income,HIC
+2019,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2019,North America and the Caribbean,CAN,Canada,2,0.3,North America,High income,HIC
+2019,North America and the Caribbean,CUB,Cuba,4,1.6,Latin America & Caribbean,Upper middle income,UMIC
+2019,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2019,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2019,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2019,North America and the Caribbean,LCA,Saint Lucia,1,46.7,Latin America & Caribbean,Upper middle income,UMIC
+2019,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,1,67.9,Latin America & Caribbean,Upper middle income,UMIC
+2019,North America and the Caribbean,TTO,Trinidad and Tobago,3,17.6,Latin America & Caribbean,High income,HIC
+2019,North America and the Caribbean,USA,United States of America,21,0.4,North America,High income,HIC
+2019,Oceania,AUS,Australia,1,0.3,East Asia & Pacific,High income,HIC
+2020,Africa,MUS,Mauritius,1,7.8,Sub-Saharan Africa,Upper middle income,UMIC
+2020,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2020,Africa,SYC,Seychelles,0,0,Sub-Saharan Africa,High income,HIC
+2020,Africa,ZAF,South Africa,572,34.6,Sub-Saharan Africa,Upper middle income,UMIC
+2020,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2020,Asia,GEO,Georgia,1,0.5,Europe & Central Asia,Upper middle income,UMIC
+2020,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2020,Asia,JPN,Japan,3,0.3,East Asia & Pacific,High income,HIC
+2020,Asia,KAZ,Kazakhstan,4,0.4,Europe & Central Asia,Upper middle income,UMIC
+2020,Asia,KOR,Republic of Korea,1,0.4,East Asia & Pacific,High income,HIC
+2020,Asia,KGZ,Kyrgyzstan,3,1.3,Europe & Central Asia,Lower middle income,LMIC
+2020,Asia,LBN,Lebanon,2,1.9,Middle East & North Africa,Lower middle income,LMIC
+2020,Asia,MYS,Malaysia,5,0.9,East Asia & Pacific,Upper middle income,UMIC
+2020,Asia,MDV,Maldives,0,0,South Asia,Upper middle income,UMIC
+2020,Asia,MNG,Mongolia,0,0,East Asia & Pacific,Upper middle income,UMIC
+2020,Asia,OMN,Oman,0,0,Middle East & North Africa,High income,HIC
+2020,Asia,QAT,Qatar,0,0,Middle East & North Africa,High income,HIC
+2020,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2020,Asia,TJK,Tajikistan,12,1.9,Europe & Central Asia,Lower middle income,LMIC
+2020,Asia,TUR,Turkey,25,1.3,Europe & Central Asia,Upper middle income,UMIC
+2020,Asia,ARE,United Arab Emirates,1,1.1,Middle East & North Africa,High income,HIC
+2020,Asia,UZB,Uzbekistan,13,0.7,Europe & Central Asia,Lower middle income,LMIC
+2020,Central and South America,ARG,Argentina,3,0.2,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,BLZ,Belize,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,BRA,Brazil,192,5.2,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,CHL,Chile,0,0,Latin America & Caribbean,High income,HIC
+2020,Central and South America,COL,Colombia,272,28.5,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,CRI,Costa Rica,3,3.3,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,ECU,Ecuador,47,10.2,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,GTM,Guatemala,167,26.5,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,GUY,Guyana,17,103.2,Latin America & Caribbean,High income,HIC
+2020,Central and South America,MEX,Mexico,213,7,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,NIC,Nicaragua,45,28.4,Latin America & Caribbean,Lower middle income,LMIC
+2020,Central and South America,PRY,Paraguay,35,16.7,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,PER,Peru,72,7.9,Latin America & Caribbean,Upper middle income,UMIC
+2020,Central and South America,URY,Uruguay,0,0,Latin America & Caribbean,High income,HIC
+2020,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,BEL,Belgium,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2020,Europe,BGR,Bulgaria,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,FRA,France,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,DEU,Germany,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,GRC,Greece,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,HUN,Hungary,2,1.3,Europe & Central Asia,High income,HIC
+2020,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,ITA,Italy,2,0.5,Europe & Central Asia,High income,HIC
+2020,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2020,Europe,NLD,Netherlands,1,0.6,Europe & Central Asia,High income,HIC
+2020,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2020,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2020,Europe,ROU,Romania,1,0.1,Europe & Central Asia,High income,HIC
+2020,Europe,SRB,Serbia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2020,Europe,SVK,Slovakia,1,0.4,Europe & Central Asia,High income,HIC
+2020,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,ESP,Spain,1,0.3,Europe & Central Asia,High income,HIC
+2020,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2020,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,0,0,Europe & Central Asia,High income,HIC
+2020,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2020,North America and the Caribbean,CAN,Canada,1,0.2,North America,High income,HIC
+2020,North America and the Caribbean,CUB,Cuba,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2020,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2020,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2020,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2020,North America and the Caribbean,LCA,Saint Lucia,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2020,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,1,69.3,Latin America & Caribbean,Upper middle income,UMIC
+2020,North America and the Caribbean,TTO,Trinidad and Tobago,1,1.4,Latin America & Caribbean,High income,HIC
+2020,North America and the Caribbean,USA,United States of America,22,0.5,North America,High income,HIC
+2020,Oceania,AUS,Australia,2,0.4,East Asia & Pacific,High income,HIC
+2021,Africa,MUS,Mauritius,1,1.9,Sub-Saharan Africa,Upper middle income,UMIC
+2021,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2021,Africa,SYC,Seychelles,0,0,Sub-Saharan Africa,High income,HIC
+2021,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2021,Asia,GEO,Georgia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2021,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2021,Asia,JPN,Japan,2,0.1,East Asia & Pacific,High income,HIC
+2021,Asia,KAZ,Kazakhstan,3,0.5,Europe & Central Asia,Upper middle income,UMIC
+2021,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2021,Asia,KGZ,Kyrgyzstan,3,1,Europe & Central Asia,Lower middle income,LMIC
+2021,Asia,LBN,Lebanon,0,0,Middle East & North Africa,Lower middle income,LMIC
+2021,Asia,MDV,Maldives,0,0,South Asia,Upper middle income,UMIC
+2021,Asia,MNG,Mongolia,2,1.7,East Asia & Pacific,Upper middle income,UMIC
+2021,Asia,OMN,Oman,1,0.3,Middle East & North Africa,High income,HIC
+2021,Asia,QAT,Qatar,1,0.9,Middle East & North Africa,High income,HIC
+2021,Asia,SAU,Saudi Arabia,6,0.9,Middle East & North Africa,High income,HIC
+2021,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2021,Asia,TUR,Turkey,15,0.9,Europe & Central Asia,Upper middle income,UMIC
+2021,Asia,TJK,Tajikistan,0,0,Europe & Central Asia,Lower middle income,LMIC
+2021,Asia,THA,Thailand,2,0.4,East Asia & Pacific,Upper middle income,UMIC
+2021,Asia,UZB,Uzbekistan,10,0.4,Europe & Central Asia,Lower middle income,LMIC
+2021,Central and South America,ARG,Argentina,9,0.5,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,BLZ,Belize,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,BRA,Brazil,226,6.2,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,CHL,Chile,0,0,Latin America & Caribbean,High income,HIC
+2021,Central and South America,COL,Colombia,311,32.3,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,CRI,Costa Rica,2,1.9,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,ECU,Ecuador,33,7.4,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,GTM,Guatemala,141,21.1,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,MEX,Mexico,226,7,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,NIC,Nicaragua,45,29.8,Latin America & Caribbean,Lower middle income,LMIC
+2021,Central and South America,PAN,Panama,45,33.8,Latin America & Caribbean,High income,HIC
+2021,Central and South America,PRY,Paraguay,29,15.1,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,PER,Peru,69,6.9,Latin America & Caribbean,Upper middle income,UMIC
+2021,Central and South America,URY,Uruguay,1,0.5,Latin America & Caribbean,High income,HIC
+2021,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,BEL,Belgium,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2021,Europe,BGR,Bulgaria,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,HRV,Croatia,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,FRA,France,1,0,Europe & Central Asia,High income,HIC
+2021,Europe,GRC,Greece,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,HUN,Hungary,1,0.3,Europe & Central Asia,High income,HIC
+2021,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,ITA,Italy,1,0.2,Europe & Central Asia,High income,HIC
+2021,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2021,Europe,NLD,Netherlands,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2021,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,MDA,Republic of Moldova,0,0,Europe & Central Asia,Upper middle income,UMIC
+2021,Europe,SRB,Serbia,1,1.6,Europe & Central Asia,Upper middle income,UMIC
+2021,Europe,SVK,Slovakia,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,ESP,Spain,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2021,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,1,0.1,Europe & Central Asia,High income,HIC
+2021,North America and the Caribbean,ATG,Antigua and Barbuda,0,0,Latin America & Caribbean,High income,HIC
+2021,North America and the Caribbean,CAN,Canada,1,0.1,North America,High income,HIC
+2021,North America and the Caribbean,CUB,Cuba,5,5,Latin America & Caribbean,Upper middle income,UMIC
+2021,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2021,North America and the Caribbean,PRI,Puerto Rico,0,0,Latin America & Caribbean,High income,HIC
+2021,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2021,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2021,North America and the Caribbean,USA,United States of America,18,0.4,North America,High income,HIC
+2021,Oceania,AUS,Australia,1,0.1,East Asia & Pacific,High income,HIC
+2022,Africa,MUS,Mauritius,0,0,Sub-Saharan Africa,Upper middle income,UMIC
+2022,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2022,Asia,CYP,Cyprus,0,0,Europe & Central Asia,High income,HIC
+2022,Asia,ISR,Israel,0,0,Middle East & North Africa,High income,HIC
+2022,Asia,JPN,Japan,2,0.1,East Asia & Pacific,High income,HIC
+2022,Asia,KAZ,Kazakhstan,6,0.7,Europe & Central Asia,Upper middle income,UMIC
+2022,Asia,KOR,Republic of Korea,0,0,East Asia & Pacific,High income,HIC
+2022,Asia,KWT,Kuwait,0,0,Middle East & North Africa,High income,HIC
+2022,Asia,KGZ,Kyrgyzstan,5,2.8,Europe & Central Asia,Lower middle income,LMIC
+2022,Asia,MNG,Mongolia,3,2.2,East Asia & Pacific,Upper middle income,UMIC
+2022,Asia,QAT,Qatar,0,0,Middle East & North Africa,High income,HIC
+2022,Asia,SAU,Saudi Arabia,3,0.5,Middle East & North Africa,High income,HIC
+2022,Asia,SGP,Singapore,0,0,East Asia & Pacific,High income,HIC
+2022,Asia,TJK,Tajikistan,6,1.4,Europe & Central Asia,Lower middle income,LMIC
+2022,Asia,TUR,Turkey,19,0.9,Europe & Central Asia,Upper middle income,UMIC
+2022,Asia,UZB,Uzbekistan,3,0.3,Europe & Central Asia,Lower middle income,LMIC
+2022,Central and South America,ARG,Argentina,7,0.7,Latin America & Caribbean,Upper middle income,UMIC
+2022,Central and South America,BLZ,Belize,3,37.4,Latin America & Caribbean,Upper middle income,UMIC
+2022,Central and South America,CHL,Chile,2,0.9,Latin America & Caribbean,High income,HIC
+2022,Central and South America,CRI,Costa Rica,2,0.7,Latin America & Caribbean,Upper middle income,UMIC
+2022,Central and South America,ECU,Ecuador,44,9.4,Latin America & Caribbean,Upper middle income,UMIC
+2022,Central and South America,GTM,Guatemala,135,22.7,Latin America & Caribbean,Upper middle income,UMIC
+2022,Central and South America,MEX,Mexico,214,6.6,Latin America & Caribbean,Upper middle income,UMIC
+2022,Central and South America,NIC,Nicaragua,51,33.7,Latin America & Caribbean,Lower middle income,LMIC
+2022,Central and South America,PAN,Panama,48,40.2,Latin America & Caribbean,High income,HIC
+2022,Central and South America,PER,Peru,84,9.4,Latin America & Caribbean,Upper middle income,UMIC
+2022,Central and South America,URY,Uruguay,2,4.4,Latin America & Caribbean,High income,HIC
+2022,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2022,Europe,BGR,Bulgaria,2,0.9,Europe & Central Asia,High income,HIC
+2022,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,DNK,Denmark,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,EST,Estonia,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,FIN,Finland,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,FRA,France,4,0.4,Europe & Central Asia,High income,HIC
+2022,Europe,GRC,Greece,1,0.3,Europe & Central Asia,High income,HIC
+2022,Europe,HUN,Hungary,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,ISL,Iceland,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,IRL,Ireland,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,ITA,Italy,1,0.1,Europe & Central Asia,High income,HIC
+2022,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,LTU,Lithuania,1,4.4,Europe & Central Asia,High income,HIC
+2022,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,MLT,Malta,0,0,Middle East & North Africa,High income,HIC
+2022,Europe,NLD,Netherlands,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2022,Europe,POL,Poland,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,PRT,Portugal,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,MDA,Republic of Moldova,1,3.8,Europe & Central Asia,Upper middle income,UMIC
+2022,Europe,ROU,Romania,3,1.3,Europe & Central Asia,High income,HIC
+2022,Europe,SRB,Serbia,1,0.4,Europe & Central Asia,Upper middle income,UMIC
+2022,Europe,SVK,Slovakia,2,2.2,Europe & Central Asia,High income,HIC
+2022,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,ESP,Spain,2,0.4,Europe & Central Asia,High income,HIC
+2022,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2022,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2,0.2,Europe & Central Asia,High income,HIC
+2022,North America and the Caribbean,CAN,Canada,1,0.1,North America,High income,HIC
+2022,North America and the Caribbean,DMA,Dominica,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2022,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2022,North America and the Caribbean,PRI,Puerto Rico,0,0,Latin America & Caribbean,High income,HIC
+2022,North America and the Caribbean,KNA,Saint Kitts and Nevis,0,0,Latin America & Caribbean,High income,HIC
+2022,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2022,North America and the Caribbean,USA,United States of America,24,0.4,North America,High income,HIC
+2022,Oceania,AUS,Australia,1,0.1,East Asia & Pacific,High income,HIC
+2023,Africa,MUS,Mauritius,0,0,Sub-Saharan Africa,Upper middle income,UMIC
+2023,Asia,ARM,Armenia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2023,Asia,GEO,Georgia,2,3,Europe & Central Asia,Upper middle income,UMIC
+2023,Asia,KAZ,Kazakhstan,3,0.7,Europe & Central Asia,Upper middle income,UMIC
+2023,Asia,KWT,Kuwait,0,0,Middle East & North Africa,High income,HIC
+2023,Asia,KGZ,Kyrgyzstan,2,1.4,Europe & Central Asia,Lower middle income,LMIC
+2023,Asia,LBN,Lebanon,0,0,Middle East & North Africa,Lower middle income,LMIC
+2023,Asia,MNG,Mongolia,0,0,East Asia & Pacific,Upper middle income,UMIC
+2023,Asia,QAT,Qatar,1,3.8,Middle East & North Africa,High income,HIC
+2023,Asia,SAU,Saudi Arabia,7,0.9,Middle East & North Africa,High income,HIC
+2023,Asia,TUR,Turkey,17,1.1,Europe & Central Asia,Upper middle income,UMIC
+2023,Asia,THA,Thailand,2,0.4,East Asia & Pacific,Upper middle income,UMIC
+2023,Asia,ARE,United Arab Emirates,0,0,Middle East & North Africa,High income,HIC
+2023,Asia,UZB,Uzbekistan,8,0.3,Europe & Central Asia,Lower middle income,LMIC
+2023,Europe,AUT,Austria,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,BIH,Bosnia and Herzegovina,0,0,Europe & Central Asia,Upper middle income,UMIC
+2023,Europe,CZE,Czechia,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,HUN,Hungary,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,LVA,Latvia,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,LTU,Lithuania,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,LUX,Luxembourg,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,NLD,Netherlands,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,MKD,North Macedonia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2023,Europe,MDA,Republic of Moldova,2,5.2,Europe & Central Asia,Upper middle income,UMIC
+2023,Europe,SRB,Serbia,0,0,Europe & Central Asia,Upper middle income,UMIC
+2023,Europe,SVK,Slovakia,1,0.4,Europe & Central Asia,High income,HIC
+2023,Europe,SVN,Slovenia,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,ESP,Spain,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,SWE,Sweden,0,0,Europe & Central Asia,High income,HIC
+2023,Europe,CHE,Switzerland,0,0,Europe & Central Asia,High income,HIC
+2023,North America and the Caribbean,GRD,Grenada,0,0,Latin America & Caribbean,Upper middle income,UMIC
+2023,Oceania,AUS,Australia,1,0.1,East Asia & Pacific,High income,HIC
