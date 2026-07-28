@@ -11,7 +11,7 @@ An exploratory data analysis project examining the relationship between malnutri
 - Power BI Reporting Systems
 - Department-level KPI Monitoring & Evaluation Dashboard
 - Annual Misconduct Tracking Dashboard (Divisional)
-- Redeveloped and Restructured Departmental Annual Report (2025)
+- Redeveloped and Restructured the Departmental Annual Report (2025)
 
 ### Academic Background
 - MSc Human Nutrition (University of Chester)
