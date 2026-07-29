@@ -2,13 +2,13 @@
 
 ## Project Highlights
 • Initially a Predictive Modelling System (Prediction of Childhood Mortality Risk)
-• Evolved into Exploratory Data Analysis through data exploration and analysis.
+• Evolved into Exploratory Data Analysis based on available data and limitations.
 • Integrated data from WHO + UNICEF + World Bank datasets.
 • Developed into an evidence-based public health analysis integrated with an interactive 
   Power BI reporting system.
 
 ## Tech Stack
-Excel, Power Query, BigQuery, SQL, DirectQuery, DAX Measures, Power BI 
+Excel -> Power Query -> BigQuery -> SQL -> DirectQuery -> DAX Measures -> Power BI 
 
 ## Queries and DAX Measures
 ## SQL Query
