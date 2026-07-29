@@ -1,9 +1,9 @@
 # Childhood Malnutrition-Mortality Burden Project (Exploratory Data Analysis)
 
 ## Project Highlights
-• Initially a Predictive Modelling System (Prediction of Childhood Mortality Risk)
+• The project started as a Predictive Modelling System (Prediction of Childhood Mortality Risk)
 • Evolved into Exploratory Data Analysis based on available data and limitations.
-• Integrated data from WHO + UNICEF + World Bank datasets.
+• Data was sourced from WHO, UNICEF, and World Bank and integrated.
 • Developed into an evidence-based public health analysis integrated with an interactive 
   Power BI reporting system.
 
