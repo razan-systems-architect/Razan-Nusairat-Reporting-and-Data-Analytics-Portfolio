@@ -1,5 +1,5 @@
 # Redeveloped and Restructured the Departmental Annual Reports - Investigations Division (2024 & 2025)
-The legacy DIOS Annual Reports (2023 and earlier) were traditional, narrative-heavy reports that were primarily descriptive. They explained what the division does, functions, challenges, and future direction or strategy. The redeveloped versions are structured, analytical, and evidence-based.
+This project involved redeveloping the legacy DIOS Annual Reports (2023 and earlier) from traditional, narrative-heavy reports into a modern, analytical, and evidence-based reporting framework.
 
 ## Highlights of the Changes in the Redeveloped Reports
 
