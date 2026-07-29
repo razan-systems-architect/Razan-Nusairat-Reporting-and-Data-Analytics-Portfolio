@@ -1,26 +1,14 @@
-# Razan Nusairat Reporting & Data Analytics Portfolio
+## Department of Operational Governance KPI Monitoring & Evaluation Dashboard
+A five-page integrated Power BI reporting system consisting of four divisional pages and a consolidated summary page for an overall managerial-level review.
 
-This portfolio showcases my professional projects in humanitarian business intelligence, data analytics, reporting systems, public health, and evidence-based research. It reflects my expertise in developing reporting systems, KPI dashboards, and analytical solutions that transform complex operational data into actionable insights for evidence-based decision-making.
+## Project Highlights:
+• Transformed an Excel-based data model into an integrated reporting system on Power BI. 
+• Developed a framework for each divisional page containing a KPI table (KPI baseline and value), 
+a column chart for KPI status percentage, KPI numbers card, and KPI categories and year slicers.
+• Brainstormed a four-level KPI performance status classification (Exceed, Meet, Substantially Meet, Does Not Meet) 
+to force a structured framework to translate qualitative data into quantitative measurements.
 
-## Portfolio Overview
+## Tech Stack
+Excel -> Power Query -> Data Modelling -> Reporting Framework -> UI/UX Design -> DAX Measures
 
-### Public Health Data Analytics Project (EDA)
-An exploratory data analysis project examining the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
-[Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research].
-
-### Business Intelligence & Reporting Projects
-- Power BI Reporting Systems
-- Department-level KPI Monitoring & Evaluation Dashboard
-- Annual Misconduct Tracking Dashboard (Divisional)
-- Redeveloped and Restructured the Departmental Annual Report (2024 & 2025)
-
-### Academic Background
-- MSc Human Nutrition (University of Chester)
-- Master's Thesis (The Efficacy of Nutritional Therapies in the Treatment of Bulimia Nervosa).
-  Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
-- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology)
-
-### Technical Certifications
-- Microsoft Power BI Data Analyst Associate Certification (PL-300)
-- Google BigQuery for Data Analysts (Completion Badge)
-- Good Clinical Practice (GCP) by NIDA
+## Queries and DAX Measures
