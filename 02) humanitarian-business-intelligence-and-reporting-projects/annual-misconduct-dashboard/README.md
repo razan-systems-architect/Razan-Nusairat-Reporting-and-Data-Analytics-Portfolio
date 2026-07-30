@@ -1,16 +1,24 @@
-Annual Misconduct Tracking Dashboard
+## Annual Misconduct Tracking Dashboard
+This dashboard is the division's first reporting system. It provides a standardized framework for managing annual data and statistics through an interactive Power BI dashboard. The purpose of this dashboard is to provide an executive-level overview of the activities and achievements of the Investigations Division and support evidence-based decision-making.
 
 ## Project Highlights
-Designed and developed an annual misconduct monitoring dashboard from the ground up.
-Consolidated complaint intake, allegation classification, investigation progress, and case outcomes into a unified reporting system.
-Implemented interactive filtering by reporting year, field office, allegation location, and responsible office.
-Developed automated KPIs for complaint processing, investigation timelines, allegation categories, and substantiation outcomes.
-Sanitized operational data and project structure for public portfolio publication.
+Replaced manual work that relied on Excel spreadsheets with a live, interactive dashboard.
+Overview of the complete complaint lifecycle (number of complaints, allegations, intake processing time,
+investigated case closure time, investigated cases outcome, and backlog monitoring.
 
-That last point is actually worth mentioning because it tells employers you understand confidentiality.
+Designed interactive analytical dashboards with dynamic filtering by year, intake decision, allegation category, field office, and investigation outcomes.
+Integrated geographical and operational reporting through field office distribution analysis, allegation classifications, and performance trend visualizations.
+Balanced transparency with confidentiality by designing a reporting framework that supports operational oversight while protecting sensitive case information.
+Created a scalable reporting architecture to support evidence-based decision-making, performance monitoring, and future reporting automation.
+
+*This is a sanitized version of the original dashboard for public portfolio publication.
+
 
 ## Tech Stack
-
-Power BI | Power Query | DAX | KPI Reporting | Operational Analytics | Data Visualization
+Power BI | Power Query | DAX | KPI Reporting | Data Visualization
 
 ## DAX Measures
+Number of Complaints = COUNT('All Data (2026+Past Cases) (2)'[Primary Allegation])
+Total Number of Allegations = COUNTA('All Data (2026+Past Cases) (2)'[Primary Allegation]) + COUNTA('All Data (2026+Past Cases) (2)'[Secondary Allegation])
+
+
