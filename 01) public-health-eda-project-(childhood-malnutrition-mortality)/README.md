@@ -2,8 +2,11 @@
 
 ## Project Highlights
 • The project started as a Predictive Modelling System (Prediction of Childhood Mortality Risk)
+
 • Evolved into Exploratory Data Analysis based on available data and limitations.
+
 • Data was sourced from WHO, UNICEF, and World Bank and integrated.
+
 • Developed into an evidence-based public health analysis integrated with an interactive 
   Power BI reporting system.
 
@@ -33,5 +36,3 @@ Number of Rows with both wasting + stunting values = CALCULATE(COUNTROWS(Malnutr
 Countries with the Full Dataset = CALCULATE([Total Number of Countries],Malnutrition_Mortality_Predictive_Model[Average Stunting Value] <> BLANK(),Malnutrition_Mortality_Predictive_Model[Average Wasting Value] <> BLANK())
 
 Number of Deaths for Countries with the Full Dataset = CALCULATE([Total Number of Deaths],FILTER(Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))
-
-
