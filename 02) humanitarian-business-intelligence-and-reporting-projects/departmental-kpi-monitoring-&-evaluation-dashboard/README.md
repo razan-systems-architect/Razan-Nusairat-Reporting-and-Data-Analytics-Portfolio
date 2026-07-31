@@ -8,8 +8,8 @@ a column chart for KPI status percentage, KPI count card, and KPI categories and
 • Developed a four-level KPI performance status classification (Exceed, Meet, Substantially Meet, Does Not Meet) 
 to standardize a structured framework that translates qualitative data into quantitative measurements.
 
-## Tech Stack
-Excel -> Power Query -> Data Modelling -> Power BI -> Reporting Framework -> UI/UX Design -> DAX Measures
+## Development Process and Tech Stack
+Excel Spreadsheet -> Power Query -> Data Modelling -> Power BI -> Reporting Framework -> UI/UX Design -> DAX Measures
 
 ## Queries and DAX Measures
 DAX Measures used for "DOG KPIs Summary Page" to translate [KPI Status] into percentages and  calculate the average KPI scores based on selected category slicers and/or year slicers.
