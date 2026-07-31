@@ -1,7 +1,7 @@
 ## Annual Misconduct Tracking Dashboard
 The Annual Misconduct Tracking Dashboard is the division's first live Power BI reporting system. It provides a standardized framework for managing annual operational statistics through an interactive Power BI dashboard. The purpose of this dashboard is to provide an executive-level overview of the activities and achievements of the Investigations Division and support evidence-based decision-making.
 
-*This is a sanitized version of the original dashboard; confidential information has been removed and/or anonymised for portfolio publication.
+*This is a sanitized version of the original dashboard; confidential information has been removed and/or anonymized for portfolio publication.
 
 ## Project Highlights
 • Replaced manual statistics work that relied on Excel spreadsheets with a live, interactive reporting system.
