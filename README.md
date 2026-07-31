@@ -15,10 +15,10 @@ An exploratory data analysis project examining the relationship between malnutri
 - Redeveloped and Restructured the Departmental Annual Report (2024 & 2025)
 
 ### Academic Background
-- MSc Human Nutrition (University of Chester)
+- MSc Human Nutrition (University of Chester) - United Kingdom
 - Master's Thesis (The Efficacy of Nutritional Therapies in the Treatment of Bulimia Nervosa).
   Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
-- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology)
+- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology) - Jordan
 
 ### Technical Certifications
 - Microsoft Power BI Data Analyst Associate Certification (PL-300)
