@@ -4,7 +4,7 @@ This portfolio showcases my professional projects in humanitarian business intel
 
 ## Portfolio Overview
 
-### Humanitarian Public Health EDA Project (EDA)
+### Humanitarian Public Health (EDA Project)
 A predictive modelling system for childhood mortality risk turned into an exploratory data analysis project. The project examines the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
 [Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research].
 
@@ -12,7 +12,7 @@ A predictive modelling system for childhood mortality risk turned into an explor
 - Power BI Reporting Systems
 - Department-level KPI Monitoring & Evaluation Dashboard
 - Annual Misconduct Tracking Dashboard (Divisional)
-- Redeveloped and Restructured the Departmental Annual Report (2024 & 2025)
+- Redeveloped and Restructured the Departmental Annual Reports (2024 & 2025)
 
 ### Academic Background
 - MSc Human Nutrition (University of Chester) - United Kingdom
