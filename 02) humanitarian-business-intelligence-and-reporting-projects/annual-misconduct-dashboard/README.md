@@ -10,7 +10,7 @@ The Annual Misconduct Tracking Dashboard is the division's first live Power BI r
 
 • Designed while maintaining confidentiality through controlled visualization of sensitive operational data.
 
-• Provides a full overview of the complete complaint lifecycle (number of complaints, allegations, intake processing time,
+• Provided a full overview of the complete complaint lifecycle (number of complaints, allegations, intake processing time,
 investigation closure time, investigation outcomes, allegation distribution by location, and backlog monitoring.
 
 ## Development Process and Tech Stack
