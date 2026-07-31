@@ -21,7 +21,7 @@ Number of Complaints = COUNT('All Data (2026+Past Cases) (2)'[Primary Allegation
 
 Total Number of Allegations = COUNTA('All Data (2026+Past Cases) (2)'[Primary Allegation]) + COUNTA('All Data (2026+Past Cases) (2)'[Secondary Allegation])
 
-DAX measure used to identify the most frequent allegation category for executive reporting.
+DAX measure used to identify the most frequent allegation category for executive reporting:
 
 
 Top Category of Allegations = MAXX(TOPN(1, VALUES('All Data (2026+Past Cases) (2)'[Primary Allegation]),
