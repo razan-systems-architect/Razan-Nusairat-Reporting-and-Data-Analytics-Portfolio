@@ -1,26 +1,37 @@
-# Razan Nusairat Reporting & Data Analytics Portfolio
+# Childhood Malnutrition-Mortality Burden Project (Exploratory Data Analysis)
 
-This portfolio showcases my professional projects in humanitarian business intelligence, data analytics, reporting systems, public health, and evidence-based research. It reflects my expertise in developing reporting systems, KPI dashboards, and analytical solutions that transform complex operational data into actionable insights for evidence-based decision-making.
+## Project Highlights
+• The project started as a Predictive Modelling System (Prediction of Childhood Mortality Risk)
+• Evolved into Exploratory Data Analysis based on available data and limitations.
+• Data was sourced from WHO, UNICEF, and World Bank and integrated.
+• Developed into an evidence-based public health analysis integrated with an interactive 
+  Power BI reporting system.
 
-## Portfolio Overview
+## Tech Stack
+Excel -> Power Query -> BigQuery -> SQL -> DirectQuery -> DAX Measures -> Power BI 
 
-### Public Health Data Analytics Project (EDA)
-An exploratory data analysis project examining the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
-[Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research].
+## Queries and DAX Measures
+## SQL Query
+SELECT 
+  who_mortality_data.`Year`,
+  who_mortality_data.`Region Name`,
+  who_mortality_data.`Country Name`, 
+  who_mortality_data.`World Bank Income Classification`,
+  who_mortality_data.`Total Number of Deaths`,
+  who_mortality_data.`Number of Deaths Per 100000 of Population`, 
+  unicef_nutrition_data.`Average Wasting`,  
+  unicef_nutrition_data.`Average Stunting`
+FROM `predictive-nutrition-system.who_unicef_health_and_nutrition_datasets.who_mortality_dataset` AS who_mortality_data
+LEFT JOIN `predictive-nutrition-system.who_unicef_health_and_nutrition_datasets.unicef_who_worldbank_malnutrition_data` AS unicef_nutrition_data
+  ON unicef_nutrition_data.`ISO Code` = who_mortality_data.`Country Code` 
+  AND who_mortality_data.`Year` = unicef_nutrition_data.`Year`
+  WHERE who_mortality_data.`World Bank Income Classification` IN ('Lower middle income', 'Upper middle income');
 
-### Business Intelligence & Reporting Projects
-- Power BI Reporting Systems
-- Department-level KPI Monitoring & Evaluation Dashboard
-- Annual Misconduct Tracking Dashboard (Divisional)
-- Redeveloped and Restructured the Departmental Annual Report (2024 & 2025)
+## DAX Measures
+Number of Rows with both wasting + stunting values = CALCULATE(COUNTROWS(Malnutrition_Mortality_Predictive_Model), FILTER (Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))
 
-### Academic Background
-- MSc Human Nutrition (University of Chester)
-- Master's Thesis (The Efficacy of Nutritional Therapies in the Treatment of Bulimia Nervosa).
-  Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
-- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology)
+Countries with the Full Dataset = CALCULATE([Total Number of Countries],Malnutrition_Mortality_Predictive_Model[Average Stunting Value] <> BLANK(),Malnutrition_Mortality_Predictive_Model[Average Wasting Value] <> BLANK())
 
-### Technical Certifications
-- Microsoft Power BI Data Analyst Associate Certification (PL-300)
-- Google BigQuery for Data Analysts (Completion Badge)
-- Good Clinical Practice (GCP) by NIDA
+Number of Deaths for Countries with the Full Dataset = CALCULATE([Total Number of Deaths],FILTER(Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))
+
+

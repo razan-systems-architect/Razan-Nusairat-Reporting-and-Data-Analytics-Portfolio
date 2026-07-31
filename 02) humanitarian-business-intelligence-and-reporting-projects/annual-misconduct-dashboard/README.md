@@ -1,26 +1,28 @@
-# Razan Nusairat Reporting & Data Analytics Portfolio
+## Annual Misconduct Tracking Dashboard
+The Annual Misconduct Tracking Dashboard is the division's first live Power BI reporting system. It provides a standardized framework for managing annual operational statistics through an interactive Power BI dashboard. The purpose of this dashboard is to provide an executive-level overview of the activities and achievements of the Investigations Division and support evidence-based decision-making.
 
-This portfolio showcases my professional projects in humanitarian business intelligence, data analytics, reporting systems, public health, and evidence-based research. It reflects my expertise in developing reporting systems, KPI dashboards, and analytical solutions that transform complex operational data into actionable insights for evidence-based decision-making.
+*This is a sanitized version of the original dashboard; confidential information has been removed and/or anonymized for portfolio publication.
 
-## Portfolio Overview
+## Project Highlights
+• Replaced manual statistics work that relied on Excel spreadsheets with a live, interactive reporting system.
 
-### Public Health Data Analytics Project (EDA)
-An exploratory data analysis project examining the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
-[Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research].
+• Designed an automated reporting structure that reduced data extraction and reporting time by more than 80%  
 
-### Business Intelligence & Reporting Projects
-- Power BI Reporting Systems
-- Department-level KPI Monitoring & Evaluation Dashboard
-- Annual Misconduct Tracking Dashboard (Divisional)
-- Redeveloped and Restructured the Departmental Annual Report (2024 & 2025)
+• Designed while maintaining confidentiality through controlled visualization of sensitive operational data.
 
-### Academic Background
-- MSc Human Nutrition (University of Chester)
-- Master's Thesis (The Efficacy of Nutritional Therapies in the Treatment of Bulimia Nervosa).
-  Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
-- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology)
+• Provided a full overview of the complete complaint lifecycle (number of complaints, allegations, intake processing time,
+investigation closure time, investigation outcomes, allegation distribution by location, and backlog monitoring.
 
-### Technical Certifications
-- Microsoft Power BI Data Analyst Associate Certification (PL-300)
-- Google BigQuery for Data Analysts (Completion Badge)
-- Good Clinical Practice (GCP) by NIDA
+## Development Process and Tech Stack
+Excel sheet restructuring -> Power Query -> Reporting Framework Design + Data Visualization + KPI Reporting -> Power BI -> DAX Measures
+
+## DAX Measures
+Number of Complaints = COUNT('All Data (2026+Past Cases) (2)'[Primary Allegation])
+
+Total Number of Allegations = COUNTA('All Data (2026+Past Cases) (2)'[Primary Allegation]) + COUNTA('All Data (2026+Past Cases) (2)'[Secondary Allegation])
+
+DAX measure used to identify the most frequent allegation category for executive reporting:
+
+
+Top Category of Allegations = MAXX(TOPN(1, VALUES('All Data (2026+Past Cases) (2)'[Primary Allegation]),
+[# of Complaints],DESC),'All Data (2026+Past Cases) (2)'[Primary Allegation])

@@ -1,26 +1,16 @@
-# Razan Nusairat Reporting & Data Analytics Portfolio
+# Redeveloped and Restructured the Departmental Annual Reports - Investigations Division (2024 & 2025)
+This project involved redeveloping the legacy DIOS Annual Reports (2023 and earlier) from traditional, narrative-heavy reports into a modern, analytical, and evidence-based reporting framework.
 
-This portfolio showcases my professional projects in humanitarian business intelligence, data analytics, reporting systems, public health, and evidence-based research. It reflects my expertise in developing reporting systems, KPI dashboards, and analytical solutions that transform complex operational data into actionable insights for evidence-based decision-making.
+## Highlights of the Changes in the Redeveloped Reports
 
-## Portfolio Overview
+• The report was organized into a structured framework, focused on the specialised units and operational functions.
 
-### Public Health Data Analytics Project (EDA)
-An exploratory data analysis project examining the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
-[Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research].
+• Transformed descriptive reporting into highly analytical, evidence-based reporting, supported by data.
 
-### Business Intelligence & Reporting Projects
-- Power BI Reporting Systems
-- Department-level KPI Monitoring & Evaluation Dashboard
-- Annual Misconduct Tracking Dashboard (Divisional)
-- Redeveloped and Restructured the Departmental Annual Report (2024 & 2025)
+• Incorporated data visualization aspects (diagrams, flowcharts, bar/pie charts, and trend analysis).
 
-### Academic Background
-- MSc Human Nutrition (University of Chester)
-- Master's Thesis (The Efficacy of Nutritional Therapies in the Treatment of Bulimia Nervosa).
-  Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
-- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology)
+• Expanded and enhanced key performance indicators through baseline comparisons and year-on-year trend analysis.
 
-### Technical Certifications
-- Microsoft Power BI Data Analyst Associate Certification (PL-300)
-- Google BigQuery for Data Analysts (Completion Badge)
-- Good Clinical Practice (GCP) by NIDA
+• Incorporated outcomes, achievements, and operational challenges for each unit, based on measurable numbers.
+
+• Strengthened decision-making by supporting findings and future recommendations with measurable evidence.
