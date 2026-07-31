@@ -1,24 +1,22 @@
 ## Annual Misconduct Tracking Dashboard
-This dashboard is the division's first reporting system. It provides a standardized framework for managing annual data and statistics through an interactive Power BI dashboard. The purpose of this dashboard is to provide an executive-level overview of the activities and achievements of the Investigations Division and support evidence-based decision-making.
-
-## Project Highlights
-Replaced manual work that relied on Excel spreadsheets with a live, interactive dashboard.
-Overview of the complete complaint lifecycle (number of complaints, allegations, intake processing time,
-investigated case closure time, investigated cases outcome, and backlog monitoring.
-
-Designed interactive analytical dashboards with dynamic filtering by year, intake decision, allegation category, field office, and investigation outcomes.
-Integrated geographical and operational reporting through field office distribution analysis, allegation classifications, and performance trend visualizations.
-Balanced transparency with confidentiality by designing a reporting framework that supports operational oversight while protecting sensitive case information.
-Created a scalable reporting architecture to support evidence-based decision-making, performance monitoring, and future reporting automation.
+The Annual Misconduct Tracking Dashboard is the division's first live Power BI reporting system. It provides a standardized framework for managing annual operational statistics through an interactive Power BI dashboard. The purpose of this dashboard is to provide an executive-level overview of the activities and achievements of the Investigations Division and support evidence-based decision-making.
 
 *This is a sanitized version of the original dashboard for public portfolio publication.
 
+## Project Highlights
+• Replaced manual statistics work that relied on Excel spreadsheets with a live, interactive reporting system.
+• Designed an automated reporting structure that reduced data extraction and reporting time by more than 80%  
+• Designed while maintaining confidentiality through controlled visualization of sensitive operational data.
+• Provides a full overview of the complete complaint lifecycle (number of complaints, allegations, intake processing time,
+investigation closure time, investigation outcomes, allegation distribution by location, and backlog monitoring.
 
-## Tech Stack
-Power BI | Power Query | DAX | KPI Reporting | Data Visualization
+## Development Process and Tech Stack
+Excel sheet restructuring -> Power Query -> Reporting Framework Design + Data Visualization + KPI Reporting -> Power BI -> DAX Measures
 
 ## DAX Measures
 Number of Complaints = COUNT('All Data (2026+Past Cases) (2)'[Primary Allegation])
 Total Number of Allegations = COUNTA('All Data (2026+Past Cases) (2)'[Primary Allegation]) + COUNTA('All Data (2026+Past Cases) (2)'[Secondary Allegation])
 
-
+DAX measure used to identify the most frequent allegation category for executive reporting.
+Top Category of Allegations = MAXX(TOPN(1, VALUES('All Data (2026+Past Cases) (2)'[Primary Allegation]),
+[# of Complaints],DESC),'All Data (2026+Past Cases) (2)'[Primary Allegation])
