@@ -5,8 +5,11 @@ The Annual Misconduct Tracking Dashboard is the division's first live Power BI r
 
 ## Project Highlights
 • Replaced manual statistics work that relied on Excel spreadsheets with a live, interactive reporting system.
+
 • Designed an automated reporting structure that reduced data extraction and reporting time by more than 80%  
+
 • Designed while maintaining confidentiality through controlled visualization of sensitive operational data.
+
 • Provides a full overview of the complete complaint lifecycle (number of complaints, allegations, intake processing time,
 investigation closure time, investigation outcomes, allegation distribution by location, and backlog monitoring.
 
@@ -15,8 +18,10 @@ Excel sheet restructuring -> Power Query -> Reporting Framework Design + Data Vi
 
 ## DAX Measures
 Number of Complaints = COUNT('All Data (2026+Past Cases) (2)'[Primary Allegation])
+
 Total Number of Allegations = COUNTA('All Data (2026+Past Cases) (2)'[Primary Allegation]) + COUNTA('All Data (2026+Past Cases) (2)'[Secondary Allegation])
 
 DAX measure used to identify the most frequent allegation category for executive reporting.
+
 Top Category of Allegations = MAXX(TOPN(1, VALUES('All Data (2026+Past Cases) (2)'[Primary Allegation]),
 [# of Complaints],DESC),'All Data (2026+Past Cases) (2)'[Primary Allegation])
