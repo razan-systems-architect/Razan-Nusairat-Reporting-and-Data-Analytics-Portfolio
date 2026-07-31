@@ -4,11 +4,11 @@ This portfolio showcases my professional projects in humanitarian business intel
 
 ## Portfolio Overview
 
-### Public Health Data Analytics Project (EDA)
-An exploratory data analysis project examining the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
+### Humanitarian Public Health EDA Project (EDA)
+A predictive modelling system for childhood mortality risk turned into an exploratory data analysis project. The project examines the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
 [Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research].
 
-### Business Intelligence & Reporting Projects
+### Humanitarian Business Intelligence & Reporting Projects
 - Power BI Reporting Systems
 - Department-level KPI Monitoring & Evaluation Dashboard
 - Annual Misconduct Tracking Dashboard (Divisional)
