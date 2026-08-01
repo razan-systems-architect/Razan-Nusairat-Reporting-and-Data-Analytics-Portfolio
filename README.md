@@ -2,10 +2,10 @@
 
 This portfolio showcases my professional projects in humanitarian business intelligence, data analytics, reporting systems, public health, and evidence-based research. It reflects my expertise in developing reporting systems, KPI dashboards, and analytical solutions that transform complex operational data into actionable insights for evidence-based decision-making.
 
-## Portfolio Overview
+## Featured Projects
 
 ### Humanitarian Public Health (EDA Project)
-A predictive modelling system for childhood mortality risk that turned into an exploratory data analysis project due to data limitations. The project examines the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
+Started as a predictive modelling system for childhood mortality risk but evolved into an exploratory data analysis project due to data limitations. The project examines the relationship between malnutrition indicators and mortality in children under five, using published datasets from WHO, World Bank, and UNICEF. 
 
 [Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research].
 
