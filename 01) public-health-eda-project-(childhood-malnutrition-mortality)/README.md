@@ -31,8 +31,8 @@ LEFT JOIN `predictive-nutrition-system.who_unicef_health_and_nutrition_datasets.
   WHERE who_mortality_data.`World Bank Income Classification` IN ('Lower middle income', 'Upper middle income');```
 
 ## DAX Measures
-Number of Rows with both wasting + stunting values = CALCULATE(COUNTROWS(Malnutrition_Mortality_Predictive_Model), FILTER (Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))
+```Number of Rows with both wasting + stunting values = CALCULATE(COUNTROWS(Malnutrition_Mortality_Predictive_Model), FILTER (Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))```
 
-Countries with the Full Dataset = CALCULATE([Total Number of Countries],Malnutrition_Mortality_Predictive_Model[Average Stunting Value] <> BLANK(),Malnutrition_Mortality_Predictive_Model[Average Wasting Value] <> BLANK())
+```Countries with the Full Dataset = CALCULATE([Total Number of Countries],Malnutrition_Mortality_Predictive_Model[Average Stunting Value] <> BLANK(),Malnutrition_Mortality_Predictive_Model[Average Wasting Value] <> BLANK())```
 
-Number of Deaths for Countries with the Full Dataset = CALCULATE([Total Number of Deaths],FILTER(Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))
+```Number of Deaths for Countries with the Full Dataset = CALCULATE([Total Number of Deaths],FILTER(Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))```
