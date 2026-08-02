@@ -15,7 +15,7 @@ Excel -> Power Query -> BigQuery -> SQL -> DirectQuery -> DAX Measures -> Power 
 
 ## Queries and DAX Measures
 ## SQL Query
-SELECT 
+```SELECT 
   who_mortality_data.`Year`,
   who_mortality_data.`Region Name`,
   who_mortality_data.`Country Name`, 
@@ -28,7 +28,7 @@ FROM `predictive-nutrition-system.who_unicef_health_and_nutrition_datasets.who_m
 LEFT JOIN `predictive-nutrition-system.who_unicef_health_and_nutrition_datasets.unicef_who_worldbank_malnutrition_data` AS unicef_nutrition_data
   ON unicef_nutrition_data.`ISO Code` = who_mortality_data.`Country Code` 
   AND who_mortality_data.`Year` = unicef_nutrition_data.`Year`
-  WHERE who_mortality_data.`World Bank Income Classification` IN ('Lower middle income', 'Upper middle income');
+  WHERE who_mortality_data.`World Bank Income Classification` IN ('Lower middle income', 'Upper middle income');```
 
 ## DAX Measures
 Number of Rows with both wasting + stunting values = CALCULATE(COUNTROWS(Malnutrition_Mortality_Predictive_Model), FILTER (Malnutrition_Mortality_Predictive_Model, NOT(ISBLANK(Malnutrition_Mortality_Predictive_Model[Average Wasting Value]))))
