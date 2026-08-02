@@ -12,7 +12,7 @@ to standardize a structured framework that translates qualitative data into quan
 Excel Spreadsheet -> Power Query -> Data Modelling -> Power BI -> Reporting Framework -> UI/UX Design -> DAX Measures
 
 ## Queries and DAX Measures
-DAX Measures used for "DOG KPIs Summary Page" to translate [KPI Status] into percentages and  calculate the average KPI scores based on selected category slicers and/or year slicers.
+```DAX Measures used for "DOG KPIs Summary Page" to translate [KPI Status] into percentages and  calculate the average KPI scores based on selected category slicers and/or year slicers.
 
 AVG KPI Status Score = SWITCH(Append1[KPI Status],"Exceed",100,"Meet",75,"Substantially Meet",50,"Does Not Meet",0,BLANK())
 AVG KPI Status Score (DDOG) = CALCULATE(AVERAGE(Append1[AVG KPI Status Score]), Append1[Division]="DDOG Office")
