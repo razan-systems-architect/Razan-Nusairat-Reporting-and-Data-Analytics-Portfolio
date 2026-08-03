@@ -14,8 +14,8 @@
 Excel -> Power Query -> BigQuery -> SQL -> DirectQuery -> DAX Measures -> Power BI 
 
 ## Queries and DAX Measures
-## SQL Query
-```SELECT 
+```## SQL Query
+  SELECT 
   who_mortality_data.`Year`,
   who_mortality_data.`Region Name`,
   who_mortality_data.`Country Name`, 
