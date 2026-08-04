@@ -5,6 +5,7 @@ A five-page integrated Power BI reporting system consisting of four divisional p
 • Transformed an Excel-based data model into an integrated reporting system on Power BI. 
 • Designed a framework for each divisional page containing a KPI table (KPI baseline and value), 
 a column chart for KPI status percentage, KPI count card, and KPI categories and year slicers.
+
 • Developed a four-level KPI performance status classification (Exceed, Meet, Substantially Meet, Does Not Meet) 
 to standardize a structured framework that translates qualitative data into quantitative measurements.
 
