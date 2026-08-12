@@ -30,8 +30,7 @@ Developed a 97-page national accreditation standards framework for the Health Ca
 - Master's Dissertation (The Efficacy of Nutritional Therapy in the Treatment of Bulimia Nervosa).
   Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
 
-- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology) - Jordan
-                        Pharmacoepidemiology, Therapeutics, Pharmacology, Clinical Data Analysis, Public Health Systems
+- BSc in Pharmaceutical Sciences (Jordan University of Science and Technology) - Jordan                                                                                                                                                        Pharmacoepidemiology, Therapeutics, Pharmacology, Clinical Data Analysis, Public Health Systems
 
 
 ## Technical Certifications
