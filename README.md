@@ -31,7 +31,8 @@ Developed a 97-page national accreditation standards framework for the Health Ca
   Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
 
 - BSc in Pharmaceutical Sciences (Jordan University of Science and Technology) - Jordan
-  Pharmacoepidemiology, Therapeutics, Pharmacology, Clinical Data Analysis, Public Health Systems
+
+Pharmacoepidemiology, Therapeutics, Pharmacology, Clinical Data Analysis, Public Health Systems
 
 
 ## Technical Certifications
