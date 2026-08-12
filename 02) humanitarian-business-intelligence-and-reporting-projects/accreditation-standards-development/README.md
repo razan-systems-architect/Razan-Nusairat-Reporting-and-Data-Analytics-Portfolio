@@ -1,7 +1,4 @@
-Markdown
 # National Accreditation Standards & Data Architecture for Inclusive Education (ASD)
-
-![HCAC 8-Domain Architecture](hcac-8-domain-architecture.png)
 
 ## Executive Summary
 * **Organization:** Health Care Accreditation Council (HCAC)
@@ -9,8 +6,6 @@ Markdown
 * **Role:** Guideline Development Officer — Sole Architect
 * **Timeline:** 2021 (4–5 Months)
 * **Scope:** National accreditation framework designed for deployment across all Jordanian schools, aligned with Jordanian Law No. 20 of 2017, the 10-Year Strategy for Inclusive Education, and international evidence bases (UN CRPD, UNESCO, UNICEF). Adaptable to regional health and education systems.
-
----
 
 ## 1. Context & Operational Challenge
 Prior to this initiative, 79% of children with disabilities in Jordan received no formal education. While legislative frameworks existed, educational institutions lacked operational standards, measurable indicators, and data capture protocols to govern the inclusion of children with Autism Spectrum Disorder (ASD) in mainstream schools.
@@ -27,8 +22,6 @@ As the sole architect, I synthesized international conventions and national legi
 7. **Quality Improvement:** Systematic evaluation of inclusion success rates, deferrals, and satisfaction metrics.
 8. **Information Management:** Data architecture for EMIS integration and longitudinal student tracking.
 
----
-
 ## 3. Data Governance & EMIS Integration Specifications
 To ensure compliance and monitoring, I engineered the underlying data specifications for Education Management Information System (EMIS) integration:
 
@@ -40,7 +33,5 @@ To ensure compliance and monitoring, I engineered the underlying data specificat
 | **Staff Monitoring** | Competency evaluation frameworks and training log tracking protocols. |
 | **Satisfaction & Quality** | Closed-loop feedback architecture with standardized complaint/resolution tracking mechanisms. |
 
----
-
 ## 4. Impact
-Established the first national operational standards for ASD-inclusive education in Jordan, providing a unified f
+Established the first national operational standards for ASD-inclusive education in Jordan, providing a unified framework for school accreditation, Ministry of Education inspections, and EU donor reporting.
