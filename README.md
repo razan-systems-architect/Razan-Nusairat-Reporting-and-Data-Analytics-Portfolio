@@ -10,7 +10,7 @@ Started as a predictive modelling system for childhood mortality risk but evolve
 
 Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research.
 
-### Evidence-Based Standards Development
+### Accreditation Standards Development
 
 **National Accreditation Standards for the Inclusion of Children with ASD within the Mainstream Education System of Jordan**
 Developed a 97-page national accreditation standards framework for the Health Care Accreditation Council (HCAC), translating national legislation and international evidence into operational standards, measurable criteria, and quality requirements for inclusive education.
@@ -20,16 +20,19 @@ Developed a 97-page national accreditation standards framework for the Health Ca
 
 ### Humanitarian Business Intelligence & Reporting Projects
 - Power BI Reporting Systems
-- Department-level KPI Monitoring & Evaluation Dashboard
+- Departmental KPI Monitoring & Evaluation Dashboard
 - Annual Misconduct Tracking Dashboard (Divisional)
 - Redeveloped and Restructured the Departmental Annual Reports (2024 & 2025)
+
 
 ## Academic Background
 - MSc Human Nutrition (University of Chester) - United Kingdom
 - Master's Dissertation (The Efficacy of Nutritional Therapy in the Treatment of Bulimia Nervosa).
   Applied systematic review methodology and evidence appraisal frameworks, including PICOS, PRISMA, and the Jadad Scale.
 - BSc in Pharmaceutical Sciences (Jordan University of Science and Technology) - Jordan
+
 Pharmacoepidemiology, Therapeutics, Pharmacology, Clinical Data Analysis, Public Health Systems
+
 
 ## Technical Certifications
 - Microsoft Power BI Data Analyst Associate Certification (PL-300)
