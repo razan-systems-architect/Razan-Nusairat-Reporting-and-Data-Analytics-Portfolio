@@ -10,13 +10,13 @@ Started as a predictive modelling system for childhood mortality risk but evolve
 
 Developed using: Power Query, SQL, DAX Measures, Clinical Indicators, Power BI, Evidence-based Research.
 
-### Humanitarian Business Intelligence & Reporting Projects
+### II) Humanitarian Business Intelligence & Reporting Projects
 - Power BI Reporting Systems
 - Departmental KPI Monitoring & Evaluation Dashboard
 - Annual Misconduct Tracking Dashboard (Divisional)
 - Redeveloped and Restructured the Departmental Annual Reports (2024 & 2025)
 
-### Accreditation Standards Development
+### III) Accreditation Standards Development
 
 **National Accreditation Standards for the Inclusion of Children with ASD within the Mainstream Education System of Jordan**
 Developed a 97-page national accreditation standards framework for the Health Care Accreditation Council (HCAC), translating national legislation and international evidence into operational standards, measurable criteria, and quality requirements for inclusive education.
