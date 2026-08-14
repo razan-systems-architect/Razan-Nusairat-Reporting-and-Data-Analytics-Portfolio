@@ -1,7 +1,6 @@
 # Razan Nusairat | Reporting & Data Analytics Portfolio
 
-This portfolio showcases my professional projects in humanitarian business intelligence, data analytics, reporting systems, public health, and evidence-based research. It reflects my expertise in developing reporting systems, KPI dashboards, and analytical solutions that transform complex operational data into actionable insights for evidence-based decision-making across the end-to-end data lifecycle.
-
+This portfolio showcases my professional projects in humanitarian business intelligence, data analytics, reporting systems, public health, monitoring & evaluation, and evidence-based research. It reflects my expertise in developing reporting systems, KPI dashboards, and analytical solutions that transform complex operational data into actionable insights for evidence-based decision-making across the end-to-end data lifecycle.
 
 ## Featured Projects
 
