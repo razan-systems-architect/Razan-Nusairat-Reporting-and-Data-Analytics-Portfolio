@@ -19,6 +19,7 @@ Developed using: Power Query (M), SQL, DAX Measures, Clinical Indicators, Micros
 **National Accreditation Standards for the Inclusion of Children with ASD within the Mainstream Education System of Jordan**
 Developed a 97-page national accreditation standards framework for the Health Care Accreditation Council (HCAC), translating national legislation and international evidence into operational standards, measurable criteria, and quality requirements for inclusive education.
  
+
 Developed using: Evidence-based Research, Policy Analysis, Indicator Development, Quality Standards, Information Management.
 
 
