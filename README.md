@@ -10,10 +10,9 @@ Started as a predictive modelling system for childhood mortality risk but evolve
 Developed using: Power Query (M), SQL, DAX Measures, Clinical Indicators, Microsoft Power BI, Evidence-based Research.
 
 ### II) Humanitarian Business Intelligence & Reporting Projects
-- Power BI Reporting Systems
-- Departmental KPI Monitoring & Evaluation Dashboard
-- Annual Misconduct Tracking Dashboard (Divisional)
-- Redeveloped and Restructured the Departmental Annual Reports (2024 & 2025)
+- Department of Operational Governance KPI Monitoring & Evaluation Dashboard
+- Annual Misconduct Tracking Dashboard 2026 (Divisional)
+- The Redevelopment and Restructuring of the Departmental Annual Reports - Divisional (2024 & 2025)
 
 ### III) Accreditation Standards Development
 
